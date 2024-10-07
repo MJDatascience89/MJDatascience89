@@ -1,0 +1,761 @@
+,make,model,year,price,engine,cylinders,fuel,mileage,transmission,trim,body,doors,exterior_color,interior_color,drivetrain
+0,Jeep,Wagoneer,2024,74600,24V GDI DOHC Twin Turbo,6,Gasoline,10,8-Speed Automatic,Series II,SUV,4,White,Global Black,Four-wheel Drive
+1,Jeep,Grand Cherokee,2024,50170,OHV,6,Gasoline,1,8-Speed Automatic,Laredo,SUV,4,Metallic,Global Black,Four-wheel Drive
+3,Dodge,Durango,2023,46835,16V MPFI OHV,8,Gasoline,32,8-Speed Automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+4,RAM,3500,2024,81663,24V DDI OHV Turbo Diesel,6,Diesel,10,6-Speed Automatic,Laramie,Pickup Truck,4,Silver,Black,Four-wheel Drive
+5,Nissan,Murano,2024,46000,24V MPFI DOHC,6,Gasoline,3838,Automatic CVT,Platinum,SUV,4,White,Gray,All-wheel Drive
+6,Jeep,Wagoneer,2024,63862,24V GDI DOHC Twin Turbo,6,Gasoline,5,8-Speed Automatic,Base,SUV,4,Bright White Clearcoat,Black,Rear-wheel Drive
+7,Ford,F-350,2024,89978,32V DDI OHV Turbo Diesel,8,Diesel,15,10-Speed Automatic,Lariat Super Duty,Pickup Truck,4,Carbonized Gray Metallic,Black Onyx,Four-wheel Drive
+9,Jeep,Grand Cherokee,2024,42773,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,20,Automatic,Altitude,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+10,Jeep,Compass,2024,37743,16V GDI DOHC Turbo,4,Gasoline,0,8-Speed Automatic,Latitude,SUV,4,Metallic,Black,Four-wheel Drive
+11,RAM,3500,2024,60904,oled Turbo Diesel I-6 6.7 L/408,6,Diesel,532,Automatic,Tradesman,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive
+12,Hyundai,Santa Cruz,2024,43419,16V PDI DOHC Turbo,4,Gasoline,1,8-Speed Automatic with Auto-Shift,2.5T Limited,Pickup Truck,4,Atlas,Dark Gray,All-wheel Drive
+13,Jeep,Grand Cherokee,2024,44022,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,12,Automatic,Altitude,SUV,4,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive
+15,Hyundai,Santa Cruz,2024,38574,16V PDI DOHC Turbo,4,Gasoline,12,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4,Blue Stone,Black,All-wheel Drive
+16,Nissan,Murano,2024,48000,24V MPFI DOHC,6,Gasoline,87,Automatic CVT,Platinum,SUV,4,Deep Ocean Blue,Beige,All-wheel Drive
+17,Ford,Explorer,2024,53190,16V GDI DOHC Turbo,4,Gasoline,15,10-Speed Automatic,Timberline,SUV,4,Star White,Ebony,Four-wheel Drive
+18,Volkswagen,Taos,2024,32751,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,25,7-Speed DSG Automatic with Tiptronic,1.5T SE,SUV,4,Blue,Black Cloud,All-wheel Drive
+19,Volkswagen,Jetta,2024,24348,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,13,8-Speed Automatic with Tiptronic,1.4T S,Sedan,4,Pyrite Silver Metallic,Titan Black,Front-wheel Drive
+20,RAM,3500,2024,65221,oled Turbo Diesel I-6 6.7 L/408,6,Diesel,344,Automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+21,Dodge,Hornet,2024,39491,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,6-Speed Automatic,R/T,SUV,4,HOT TAMALE,Black,All-wheel Drive
+22,Hyundai,Tucson,2024,30305,16V PDI DOHC,4,Gasoline,11,8-Speed Automatic,SEL,SUV,4,White Pearl,Black,Front-wheel Drive
+24,Hyundai,Santa Cruz,2024,33160,16V PDI DOHC,4,Gasoline,1,8-Speed Automatic,2.5L SEL,Pickup Truck,4,Blue Stone,Black,All-wheel Drive
+25,Ford,Explorer,2024,40940,16V GDI DOHC Turbo,4,Gasoline,7,10-Speed Automatic,XLT,SUV,4,Star White,Ebony,Rear-wheel Drive
+26,Jeep,Compass,2024,34084,DOHC,4,Gasoline,12,8-Speed Automatic,Limited,SUV,4,Baltic Gray Metallic Clearcoat,Black,Four-wheel Drive
+29,RAM,2500,2024,58855,16V MPFI OHV,8,Gasoline,0,Automatic,Tradesman,Pickup Truck,4,Granite,Black,Four-wheel Drive
+30,Nissan,Murano,2024,39867,24V MPFI DOHC,6,Gasoline,2,Automatic CVT,SV,SUV,4,White,Graphite,Front-wheel Drive
+31,Ford,Transit-250,2024,53595,24V PDI DOHC Flexible Fuel,6,E85 Flex Fuel,10,Automatic,148 WB Medium Roof Cargo,Cargo Van,3,Oxford White,Dark Palazzo Gray,Rear-wheel Drive
+32,Jeep,Grand Cherokee 4xe,2023,59547,16V GDI DOHC Turbo Hybrid,4,Hybrid,185,8-Speed Automatic,Trailhawk,SUV,4,Diamond Black,Global Black,Four-wheel Drive
+34,Volkswagen,Jetta,2024,27175,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,5,8-Speed Automatic with Tiptronic,1.4T SE,Sedan,4,Pyrite Silver Metallic,Titan Black,Front-wheel Drive
+36,Chevrolet,Silverado 1500,2024,58610,16V GDI OHV,8,Gasoline,0,Automatic,RST,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive
+37,Kia,Seltos,2024,29640,16V MPFI DOHC,4,Gasoline,16,Automatic CVT,EX,SUV,4,Steel Gray,Black,All-wheel Drive
+38,Chevrolet,Blazer,2024,43727,24V GDI DOHC,6,Gasoline,9,9-Speed Automatic,3LT,SUV,4,Copper Bronze,Jet Black,All-wheel Drive
+40,RAM,3500,2024,64670,oled Turbo Diesel I-6 6.7 L/408,6,Diesel,15,Automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive
+41,Jeep,Wrangler,2024,46973,"gasoline direct injection, DOHC, intercooled turbo, premi",4,Gasoline,10,Automatic,Sport S,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+42,Jeep,Grand Cherokee 4xe,2024,54905,16V GDI DOHC Turbo Hybrid,4,Hybrid,1,8-Speed Automatic,Trailhawk,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+43,Mazda,CX-90 PHEV,2024,50915,16V GDI DOHC Hybrid,4,Hybrid,7,8-Speed Automatic,Preferred,SUV,4,Machine Gray Metallic,Black,All-wheel Drive
+45,Jeep,Compass,2024,28860,16V GDI DOHC Turbo,4,Gasoline,7,8-Speed Automatic,Latitude,SUV,4,Diamond Black,Black,Four-wheel Drive
+46,Dodge,Durango,2023,46835,16V MPFI OHV,8,Gasoline,21,8-Speed Automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+51,Volkswagen,Jetta,2024,24348,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,6,8-Speed Automatic with Tiptronic,1.4T S,Sedan,4,Pure White,Titan Black,Front-wheel Drive
+52,Hyundai,Sonata Hybrid,2024,38870,16V GDI DOHC Hybrid,4,Hybrid,14,6-Speed Automatic,Limited,Sedan,4,Portofino Gray,Dark Gray,Front-wheel Drive
+54,Dodge,Durango,2024,58709,16V MPFI OHV,8,Gasoline,15,8-Speed Automatic,R/T,SUV,4,Night,Black,All-wheel Drive
+55,Dodge,Hornet,2024,42855,"4 gasoline direct injection, DOHC, Multiair variable valv",4,Gasoline,5,6-Speed Automatic,R/T EAWD,SUV,4,8 Ball,Black,All-wheel Drive
+56,Dodge,Hornet,2024,34990,16V GDI DOHC Turbo,4,Gasoline,10,9-Speed Automatic,GT,SUV,4,Q BALL,Black,All-wheel Drive
+57,Kia,Sportage Hybrid,2024,34835,"4 gasoline direct injection, DOHC, CVVT variable valve co",4,Hybrid,9,Automatic,EX,SUV,4,Gravity Gray,Black,All-wheel Drive
+59,Ford,Expedition,2024,69955,24V PDI DOHC Twin Turbo,6,Gasoline,8,10-Speed Automatic,XLT,SUV,4,Silver,Black Onyx,Four-wheel Drive
+60,Dodge,Hornet,2024,39581,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,6-Speed Automatic,R/T,SUV,4,Blue Steel,Black,All-wheel Drive
+61,Volkswagen,Atlas,2024,49166,16V GDI DOHC Turbo,4,Gasoline,0,8-Speed Automatic,2.0T Peak Edition SE w/Technology,SUV,4,Avocado Green,Titan Black,All-wheel Drive
+64,Hyundai,Tucson,2024,40474,"ream 2.5L I-4 port/direct injection, DOHC, CVVT variable",4,Gasoline,5,Automatic,Limited,SUV,4,Shimmering Silver,Gray,All-wheel Drive
+65,BMW,X7,2024,89450,24V GDI DOHC Turbo,6,Gasoline,10,8-Speed Automatic,xDrive40i,SUV,4,Black Sapphire Metallic,Cognac,All-wheel Drive
+66,Jeep,Compass,2024,28860,16V GDI DOHC Turbo,4,Gasoline,7,8-Speed Automatic,Latitude,SUV,4,Metallic,Black,Four-wheel Drive
+67,Toyota,Tundra Hybrid,2024,62341,"MAX 3.4L V-6 port/direct injection, DOHC, variable valve",6,Hybrid,4357,10-Speed Automatic,Limited,Pickup Truck,4,Ice Cap,Black,Four-wheel Drive
+69,Nissan,Kicks,2024,24500,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4,Gasoline,10,CVT,SV,SUV,4,Aspen White Tricoat,Charcoal,Front-wheel Drive
+70,Buick,Envista,2024,27075,12V GDI DOHC Turbo,3,Gasoline,6,6-Speed Automatic,Preferred,SUV,4,Sunrise Red Metallic,Ebony,Front-wheel Drive
+72,Nissan,Rogue,2024,35975,"o 1.5L I-3 gasoline direct injection, DOHC, CVTCS variabl",3,Gasoline,4,Automatic,SV,SUV,4,Gun Metallic,Charcoal,All-wheel Drive
+74,Nissan,Rogue,2024,36405,"o 1.5L I-3 gasoline direct injection, DOHC, CVTCS variabl",3,Gasoline,5,Automatic,SV,SUV,4,Deep Ocean Blue Pearl,Charcoal,All-wheel Drive
+75,Jeep,Wagoneer L,2024,86137,"ne 3L I-6 gasoline direct injection, DOHC, variable valve",6,Gasoline,5,Automatic,Series II Carbide 4x4,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+76,Kia,Sportage,2024,27969,"4 port/direct injection, DOHC, CVVT variable valve contro",4,Gasoline,0,8-Speed Automatic,S,SUV,4,Gravity Gray,Black,Front-wheel Drive
+78,RAM,3500,2024,63223,24V DDI OHV Turbo Diesel,6,Diesel,13,Automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+79,Dodge,Durango,2023,47785,16V MPFI OHV,8,Gasoline,32,8-Speed Automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+80,Nissan,Murano,2024,46000,24V MPFI DOHC,6,Gasoline,5,Automatic CVT,Platinum,SUV,4,Deep Ocean Blue,Beige,All-wheel Drive
+82,Nissan,Rogue,2024,41180,"o 1.5L I-3 gasoline direct injection, DOHC, CVTCS variabl",3,Gasoline,3,Automatic,SL,SUV,4,Boulder Gray Pearl,Charcoal,All-wheel Drive
+83,Dodge,Hornet,2024,44720,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,6-Speed Automatic,R/T,SUV,4,Blue Steel,Black,All-wheel Drive
+85,Jeep,Compass,2024,28860,16V GDI DOHC Turbo,4,Gasoline,9,8-Speed Automatic,Latitude,SUV,4,Metallic,Black,Four-wheel Drive
+88,Dodge,Durango,2024,44160,24V MPFI DOHC,6,Gasoline,12,8-Speed Automatic,GT,SUV,4,Vapor Gray,Black,Rear-wheel Drive
+90,RAM,3500,2024,58930,24V DDI OHV Turbo Diesel,6,Diesel,13,6-Speed Automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+91,GMC,Terrain,2024,35236,16V GDI DOHC Turbo,4,Gasoline,0,9-Speed Automatic,SLT,SUV,4,Ebony Twilight Metallic,Jet Black,All-wheel Drive
+92,Jeep,Wagoneer,2024,60555,24V GDI DOHC Twin Turbo,6,Gasoline,5,8-Speed Automatic,Base,SUV,4,Diamond Black,Black,Rear-wheel Drive
+94,Audi,SQ5,2024,0,oled Turbo Premium Unleaded V-6 3.0 L/183,6,Gasoline,14,Automatic,Premium Plus,SUV,4,Ultra Blue Metallic,Black,All-wheel Drive
+95,RAM,3500,2024,66334,"High Output 6.7L I-6 diesel direct injection, VVT interc",6,Diesel,6,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4,Bright White Clearcoat,Black Interior Color,Four-wheel Drive
+96,Audi,Q5 e,2024,73020,"gasoline direct injection, DOHC, variable valve control,",4,Gasoline,12,7-Speed Automatic S tronic,55 Premium Plus,SUV,4,Gray Metallic,Black,All-wheel Drive
+98,RAM,3500,2024,65315,24V DDI OHV Turbo Diesel,6,Diesel,9,6-Speed Automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+99,Mazda,CX-90 PHEV,2024,58599,DOHC 16V LEV3-SULEV30,4,PHEV Hybrid Fuel,8,Automatic,Premium Plus,SUV,4,Soul,Black,All-wheel Drive
+101,Dodge,Hornet,2024,47234,16V GDI DOHC Turbo Hybrid,4,Hybrid,0,6-Speed Automatic,R/T Plus,SUV,4,Gold,Black,All-wheel Drive
+102,Chevrolet,Silverado 1500,2024,44161,16V GDI DOHC Turbo,4,Gasoline,2,8-Speed Automatic,Custom,Pickup Truck,4,Black,Jet Black,Four-wheel Drive
+103,Chevrolet,Silverado 1500,2024,49496,16V GDI OHV,8,Gasoline,2,Automatic,LT,Pickup Truck,4,Black,Jet Black,Four-wheel Drive
+104,Chevrolet,Silverado 1500,2024,43475,16V GDI DOHC Turbo,4,Gasoline,2,Automatic,WT,Pickup Truck,4,Black,Jet Black,Four-wheel Drive
+105,Dodge,Charger,2023,36083,24V MPFI DOHC,6,Gasoline,20,8-Speed Automatic,SXT,Sedan,4,White,Black,Rear-wheel Drive
+106,Chevrolet,Silverado 1500,2024,54559,16V GDI OHV,8,Gasoline,148,Automatic,RST,Pickup Truck,4,Sterling Gray Metallic,Jet Black,Four-wheel Drive
+107,Mercedes-Benz,Sprinter 2500,2024,60061,16V DDI DOHC Turbo Diesel,4,Diesel,58,9-Speed Automatic,Standard Roof,Cargo Van,3,Silver Gray,Black,Rear-wheel Drive
+108,Jeep,Compass,2024,28867,"gasoline direct injection, DOHC, variable valve control,",4,Gasoline,1,Automatic,Latitude,SUV,4,Baltic Gray Metallic Clearcoat,Black,Four-wheel Drive
+109,Honda,CR-V Hybrid,2024,42005,16V GDI DOHC Hybrid,4,Hybrid,1,Automatic CVT,Sport Touring,SUV,4,Radiant Red Metallic,Black,All-wheel Drive
+111,Hyundai,Tucson Hybrid,2024,35864,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,6-Speed Automatic,SEL Convenience,SUV,4,Amazon Gray,Black,All-wheel Drive
+112,Jeep,Compass,2023,30000,DOHC,4,Gasoline,0,8-Speed Automatic,Latitude,SUV,4,Red Line,Steel Gry Premium Cl,Four-wheel Drive
+114,Jeep,Compass,2024,29342,"gasoline direct injection, DOHC, variable valve control,",4,Gasoline,6,Automatic,Sport,SUV,4,Laser Blue Pearlcoat,Black,Four-wheel Drive
+115,Ford,Transit-150,2024,55645,24V PDI DOHC Flexible Fuel,6,E85 Flex Fuel,59,10-Speed Automatic,Base,Cargo Van,3,Race Red,Ebony,All-wheel Drive
+118,Jeep,Grand Cherokee,2024,39714,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,14,Automatic,Laredo,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+119,Chevrolet,Silverado 1500,2024,49628,16V GDI OHV,8,Gasoline,2,Automatic,LT,Pickup Truck,4,Radiant Red,Jet Black,Four-wheel Drive
+120,Hyundai,Tucson Hybrid,2024,33089,16V GDI DOHC Turbo Hybrid,4,Hybrid,25,6-Speed Automatic,Blue,SUV,4,Amazon Gray,Gray,All-wheel Drive
+122,Dodge,Charger,2023,65075,16V MPFI OHV,8,Gasoline,18,8-Speed Automatic,Scat Pack,Sedan,4,Blue,Black,Rear-wheel Drive
+123,Jeep,Compass,2024,38980,16V GDI DOHC Turbo,4,Gasoline,9,8-Speed Automatic,Limited,SUV,4,Diamond Black,Black,Four-wheel Drive
+125,Jeep,Grand Cherokee 4xe,2024,58235,"gasoline direct injection, DOHC, intercooled turbo, premi",4,Gasoline,3,Automatic,4x4,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+126,Volkswagen,Taos,2024,27998,16V GDI DOHC Turbo,4,Gasoline,3,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4,Pyrite Silver Metallic,Black,All-wheel Drive
+127,Chevrolet,Equinox,2024,25515,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,8,6-Speed Automatic Electronic with Overdrive,LS,SUV,4,Summit White,Medium Ash Gray,Front-wheel Drive
+129,Jeep,Wrangler 4xe,2024,66960,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,8-Speed Automatic,Rubicon,SUV,4,Earl Clearcoat,Black,Four-wheel Drive
+130,Mazda,CX-90 PHEV,2024,53395,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4,Gasoline,5,8-Speed Automatic,Base,SUV,4,Rhodium White Premium,Greige,All-wheel Drive
+132,RAM,ProMaster 2500,2024,53272,24V MPFI DOHC,6,Gasoline,1,9-Speed Automatic,High Roof,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+133,Lincoln,Corsair,2024,51361,16V GDI DOHC Turbo,4,Gasoline,3,8-Speed Automatic,Reserve,SUV,4,Infinite Black Metallic,Ebony,All-wheel Drive
+135,Chrysler,Pacifica Hybrid,2024,60600,24V MPFI DOHC Hybrid,6,Hybrid,10,Automatic CVT,Select,Passenger Van,4,Bright White Clearcoat,Black,Front-wheel Drive
+136,Dodge,Hornet,2024,38575,16V GDI DOHC Turbo,4,Gasoline,10,9-Speed Automatic,GT,SUV,4,Gray,Black,All-wheel Drive
+138,Nissan,Altima,2024,31225,16V GDI DOHC,4,Gasoline,6,Automatic CVT,2.5 SV,Sedan,4,Black,Charcoal,Front-wheel Drive
+139,Hyundai,Sonata Hybrid,2024,32520,16V GDI DOHC Hybrid,4,Hybrid,11,6-Speed Automatic,SEL,Sedan,4,Portofino Gray,Gray,Front-wheel Drive
+140,Dodge,Charger,2023,35821,24V MPFI DOHC,6,Gasoline,20,8-Speed Automatic,SXT,Sedan,4,Black,Black,Rear-wheel Drive
+141,Mazda,CX-90 PHEV,2024,60200,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4,Gasoline,33,Automatic,Base,SUV,4,Jet Black Mica,White,All-wheel Drive
+143,Dodge,Hornet,2024,36532,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4,Gasoline,14,9-Speed 948TE Automatic,GT AWD,SUV,4,Gray Cray,Black,All-wheel Drive
+144,Jeep,Grand Cherokee 4xe,2024,61506,"gasoline direct injection, DOHC, intercooled turbo, premi",4,Gasoline,3,Automatic,Anniversary Edition,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+145,Mazda,CX-90 PHEV,2024,59625,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4,Gasoline,2,8-Speed Automatic,Base,SUV,4,Deep Crystal Blue Mica,Black,All-wheel Drive
+147,Dodge,Hornet,2024,35480,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4,Gasoline,0,Automatic,Hornet Gt Awd,SUV,4,Hot Tamale,Black,All-wheel Drive
+148,Jeep,Compass,2024,31200,16V GDI DOHC Turbo,4,Gasoline,11,8-Speed Automatic,Latitude,SUV,4,Silver Zynith,Black,Four-wheel Drive
+149,Jeep,Wrangler 4xe,2024,54835,"gasoline direct injection, DOHC, intercooled turbo, premi",4,Gasoline,11,8-Speed A/T,Sport S,SUV,4,Silver Zynith Clearcoat,Black,Four-wheel Drive
+150,Jeep,Grand Cherokee,2024,52115,24V MPFI DOHC,6,Gasoline,13,8-Speed Automatic,Limited,SUV,4,Metallic,Beige / Black,Four-wheel Drive
+151,Volkswagen,Taos,2024,32011,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,11,8-speed automatic,1.5T SE,SUV,4,Pure White,Black,Front-wheel Drive
+152,RAM,ProMaster 3500,2024,53099,24V MPFI DOHC,6,Gasoline,30,9-Speed Automatic,High Roof,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+153,Dodge,Durango,2023,46835,16V MPFI OHV,8,Gasoline,32,8-Speed Automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+154,Volkswagen,Taos,2024,30383,16V GDI DOHC Turbo,4,Gasoline,13,8-Speed Automatic,1.5T SE,SUV,4,Pure Gray W/Black Roof,Black,Front-wheel Drive
+156,Jeep,Grand Cherokee,2024,37729,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,10,Automatic,Laredo,SUV,4,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive
+157,Jeep,Wrangler 4xe,2024,53535,16V GDI DOHC Turbo Hybrid,4,Hybrid,4,8-Speed Automatic,Sport,SUV,4,Anvil Clearcoat,Black,Four-wheel Drive
+158,Dodge,Charger,2023,37490,24V MPFI DOHC,6,Gasoline,20,8-Speed Automatic,SXT,Sedan,4,Green,Black,Rear-wheel Drive
+159,Dodge,Hornet,2024,44600,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,6-Speed Automatic,R/T Plus,SUV,4,Blue,Black,All-wheel Drive
+160,Dodge,Durango,2024,45038,24V MPFI DOHC,6,Gasoline,5,8-Speed Automatic,GT,SUV,4,Vapor Gray,Black,All-wheel Drive
+162,Jeep,Wrangler,2024,60972,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,12,Automatic,Rubicon,SUV,4,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive
+163,Jeep,Gladiator,2023,53796,24V MPFI DOHC,6,Gasoline,0,8-Speed Automatic,Rubicon,Pickup Truck,4,High Velocity Clearcoat,Black,Four-wheel Drive
+165,Volkswagen,Taos,2024,25311,16V GDI DOHC Turbo,4,Gasoline,9,7-Speed DSGA? Automatic w/ 4MO,1.5T S,SUV,4,Pyrite Silver Metallic,Black,All-wheel Drive
+166,Dodge,Charger,2023,35913,24V MPFI DOHC,6,Gasoline,15,8-Speed Automatic,SXT,Sedan,4,Blue,Black,Rear-wheel Drive
+167,INFINITI,QX50,2024,48350,"o 2L I-4 port/direct injection, DOHC, variable valve cont",4,Gasoline,3,Variable,LUXE,SUV,4,Slate Gray,Pebble Gray,Front-wheel Drive
+168,Nissan,Versa,2024,21000,16V MPFI DOHC,4,Gasoline,9,Automatic CVT,1.6 SV,Sedan,4,Aspen White,Graphite,Front-wheel Drive
+170,Mercedes-Benz,AMG GLE 53,2024,90995,24V GDI DOHC Turbo,6,Gasoline,10,9-Speed Automatic,Base,SUV,4,Blue,Black,All-wheel Drive
+171,Mazda,CX-90 PHEV,2024,56079,16V GDI DOHC Hybrid,4,Hybrid,0,8-Speed Automatic,Premium,SUV,4,Rhodium White Metallic,Black,All-wheel Drive
+172,Ford,F-350,2024,52263,"8 variable valve control, regular unleaded, engine with 4",8,Gasoline,10,10-Speed Automatic,XL,Pickup Truck,2,Race Red,Medium Earth Gray,Four-wheel Drive
+173,Dodge,Durango,2023,46835,16V MPFI OHV,8,Gasoline,29,8-Speed Automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+174,Dodge,Hornet,2024,42991,16V GDI DOHC Turbo Hybrid,4,Hybrid,14,6-Speed Automatic,R/T,SUV,4,HOT TAMALE,Black,All-wheel Drive
+175,Jeep,Grand Cherokee 4xe,2024,54910,16V GDI DOHC Turbo Hybrid,4,Hybrid,10,8-Speed Automatic,Trailhawk,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+176,Audi,A5 Sportback,2024,56105,16V GDI DOHC Turbo,4,Gasoline,12,7-Speed Automatic with Auto-Shift,S line Premium Plus,Hatchback,4,Navarra Blue Metallic,Black,All-wheel Drive
+178,Dodge,Durango,2023,44790,24V MPFI DOHC,6,Gasoline,32,8-Speed Automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+179,Chevrolet,Trailblazer,2024,32580,"1.3L I-3 gasoline direct injection, DOHC, variable valve",3,Gasoline,0,9-Speed Automatic,RS,SUV,4,Crimson Metallic,Jet Black w/Red Accents,All-wheel Drive
+181,Hyundai,Santa Cruz,2024,34330,16V PDI DOHC,4,Gasoline,11,8-Speed Automatic,2.5L SEL,Pickup Truck,4,Atlas,Gray,All-wheel Drive
+182,Dodge,Hornet,2024,37430,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4,Gasoline,9,9-Speed A/T,GT AWD,SUV,4,Blu Bayou,Black,All-wheel Drive
+183,Hyundai,Santa Cruz,2024,42015,16V PDI DOHC Turbo,4,Gasoline,1,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4,Blue Stone,Black,All-wheel Drive
+184,Hyundai,Santa Cruz,2024,32925,16V PDI DOHC,4,Gasoline,1,8-Speed Automatic,2.5L SEL,Pickup Truck,4,Blue Stone,Black,All-wheel Drive
+185,Jeep,Wrangler 4xe,2024,57870,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,8-Speed Automatic,Sahara,SUV,4,Pearlcoat,Black,Four-wheel Drive
+186,Jeep,Compass,2024,28265,16V GDI DOHC Turbo,4,Gasoline,11,8-Speed Automatic,Latitude,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+187,Volkswagen,Taos,2024,30618,16V GDI DOHC Turbo,4,Gasoline,7,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4,Pure White,Gray,All-wheel Drive
+188,Ford,Escape,2024,31985,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3,Gasoline,2,8-Speed Automatic,Active,SUV,4,Carbonized Gray Metallic,Ebony Black,Front-wheel Drive
+189,Ford,Bronco Sport,2024,35210,oBoost,3,Gasoline,0,8-Speed Automatic,Outer Banks,SUV,4,Shadow Black,Ebony/Roast,Four-wheel Drive
+193,Jeep,Compass,2024,31721,16V GDI DOHC Turbo,4,Gasoline,0,8-Speed Automatic,Latitude,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+194,Dodge,Durango,2024,44852,24V MPFI DOHC,6,Gasoline,13,8-Speed Automatic,GT,SUV,4,Vapor Gray,Black,All-wheel Drive
+195,Dodge,Hornet,2024,32485,">
+
+    
+    <dt>VIN</dt>
+     ZACNDFAN0R3A12168",4,Gasoline,48,9 Spd Automatic,GT AWD,SUV,4,Blu Bayou,Black,All-wheel Drive
+196,Dodge,Durango,2023,46835,16V MPFI OHV,8,Gasoline,34,8-Speed Automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+197,Jeep,Grand Cherokee L,2024,39370,24V VVT,6,Gasoline,0,8-Speed Automatic,Laredo,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+198,Dodge,Hornet,2024,45844,16V GDI DOHC Turbo Hybrid,4,Hybrid,1,6-Speed Automatic,R/T,SUV,4,Gray,Black,All-wheel Drive
+199,Jeep,Wagoneer L,2024,78543,24V GDI DOHC Twin Turbo,6,Gasoline,16,8-Speed Automatic,Series II,SUV,4,Riverrock Green,Global Black,Four-wheel Drive
+200,Hyundai,Elantra HEV,2024,27080,".6L I-4 gasoline direct injection, DOHC, D-CVVT variable",4,Hybrid,13,Automatic,Blue,Sedan,4,Serenity White,Medium Gray,Front-wheel Drive
+201,RAM,3500,2024,83940,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6,Diesel,6,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4,Patriot Blue Pearlcoat,Black,Four-wheel Drive
+202,Volkswagen,Atlas Cross Sport,2024,48541,16V GDI DOHC Turbo,4,Gasoline,10,8-Speed Automatic,2.0T SEL R-Line,SUV,4,Silver Bird Metallic,Mauro Brown,All-wheel Drive
+203,RAM,3500,2024,81036,"High Output 6.7L I-6 diesel direct injection, VVT interc",6,Diesel,0,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4,White,Black,Four-wheel Drive
+204,Mazda,CX-90 PHEV,2024,54949,DOHC 16V LEV3-SULEV30,4,PHEV Hybrid Fuel,8,Automatic,Premium,SUV,4,Soul,Black,All-wheel Drive
+205,RAM,3500,2024,67562,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6,Diesel,13,Automatic,Tradesman/SLT/Laramie/Limited,Pickup Truck,4,White,Black Interior Color,Four-wheel Drive
+206,Mazda,CX-90 PHEV,2024,58399,DOHC 16V LEV3-SULEV30,4,PHEV Hybrid Fuel,4,Automatic,Premium Plus,SUV,4,Rhodium White Premium,Black,All-wheel Drive
+207,Lexus,RX 500h,2024,73270,16V PDI DOHC Turbo Hybrid,4,Hybrid,21,6-Speed Automatic,F SPORT PERFORMANCE,SUV,4,Caviar,Black,All-wheel Drive
+208,RAM,3500,2024,89040,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6,Diesel,5,Aisin 6-Speed Automatic,Laramie Mega Cab 4x4 6&#39;4&#39; Box,Pickup Truck,4,Pearl White,Black,Four-wheel Drive
+211,Chevrolet,Silverado 1500,2024,65175,24V DDI DOHC Turbo Diesel,6,Diesel,0,Automatic,LT Trail Boss,Pickup Truck,4,Slate Gray Metallic,Jet Black,Four-wheel Drive
+212,Nissan,Versa,2024,20389,16V MPFI DOHC,4,Gasoline,11,Automatic CVT,1.6 SR,Sedan,4,Gun Metallic,Gray,Front-wheel Drive
+213,Mazda,CX-90 PHEV,2024,50599,DOHC 16V LEV3-SULEV30,4,PHEV Hybrid Fuel,4,Automatic,Preferred,SUV,4,Rhodium White Premium,Greige,All-wheel Drive
+220,Hyundai,Tucson Hybrid,2024,35404,16V GDI DOHC Turbo Hybrid,4,Hybrid,10,6-Speed Automatic,SEL Convenience,SUV,4,White,Black,All-wheel Drive
+221,Hyundai,Tucson Hybrid,2024,35656,16V GDI DOHC Turbo Hybrid,4,Hybrid,9,6-Speed Automatic,N Line,SUV,4,Titanium Gray,Black,All-wheel Drive
+222,Jeep,Compass,2024,32660,16V GDI DOHC Turbo,4,Gasoline,9,8-Speed Automatic,Latitude,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+224,Jeep,Wrangler 4xe,2024,61860,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,8-Speed Automatic,Rubicon,SUV,4,Anvil Clearcoat,Black,Four-wheel Drive
+226,Nissan,Kicks,2024,26600,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4,Gasoline,15,CVT,SR,SUV,4,Scarlet Ember Tintcoat,Charcoal,Front-wheel Drive
+228,Hyundai,Santa Cruz,2024,37325,16V PDI DOHC,4,Gasoline,1,8-Speed Automatic,2.5L SEL,Pickup Truck,4,Sage Gray,Gray,All-wheel Drive
+229,Jeep,Grand Cherokee,2024,52642,24V MPFI DOHC,6,Gasoline,6,8-Speed Automatic,Limited,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+230,Jeep,Compass,2024,40235,16V GDI DOHC Turbo,4,Gasoline,10,8-Speed Automatic,Limited,SUV,4,Sting Gray Clearcoat,Black,Four-wheel Drive
+231,Dodge,Durango,2023,46835,16V MPFI OHV,8,Gasoline,5,8-Speed Automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+232,Hyundai,Santa Cruz,2024,42064,16V PDI DOHC Turbo,4,Gasoline,1,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4,Phantom Black,Black,All-wheel Drive
+233,Hyundai,Tucson Hybrid,2024,39832,16V GDI DOHC Turbo Hybrid,4,Hybrid,10,6-Speed Automatic,Limited,SUV,4,Deep Sea,Black,All-wheel Drive
+236,Volkswagen,Taos,2024,33331,16V GDI DOHC Turbo,4,Gasoline,13,7-Speed DSGA? Automatic w/ 4MO,1.5T SEL,SUV,4,Pure White,Black,All-wheel Drive
+237,Dodge,Hornet,2024,51835,16V GDI DOHC Turbo Hybrid,4,Hybrid,33,6-Speed Automatic,R/T Plus,SUV,4,8 BALL,Black,All-wheel Drive
+240,Dodge,Durango,2023,47340,16V MPFI OHV,8,Gasoline,34,8-Speed Automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+241,Jeep,Grand Cherokee L,2024,54209,OHV,6,Gasoline,10,8-Speed Automatic,Limited,SUV,4,Metallic,Global Black,Four-wheel Drive
+242,RAM,3500,2024,86505,oled Turbo Diesel I-6 6.7 L/408,6,Diesel,49,Automatic,Laramie,Pickup Truck,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+243,Dodge,Hornet,2024,48595,"4 gasoline direct injection, DOHC, Multiair variable valv",4,Gasoline,0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Plus Eawd,SUV,4,8 Ball,Black,All-wheel Drive
+244,Mazda,MX-5 Miata RF,2023,38040,16V GDI DOHC,4,Gasoline,3,6-Speed Automatic,Grand Touring,Convertible,2,Snowflake White Pearl,Black,Rear-wheel Drive
+246,Dodge,Durango,2023,46835,16V MPFI OHV,8,Gasoline,21,8-Speed Automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+247,Jeep,Grand Cherokee L,2024,52567,OHV,6,Gasoline,246,8-Speed Automatic,Limited,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+249,Dodge,Durango,2023,47340,16V MPFI OHV,8,Gasoline,33,8-Speed Automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+250,Jeep,Wagoneer,2024,87488,24V GDI DOHC Twin Turbo,6,Gasoline,22,8-Speed Automatic,Series II,SUV,4,Riverrock Green,Global Black,Four-wheel Drive
+254,Jeep,Grand Cherokee,2024,44737,OHV,6,Gasoline,6,8-Speed Automatic,Laredo,SUV,4,Metallic,Global Black,Four-wheel Drive
+256,Hyundai,Santa Cruz,2024,41995,16V PDI DOHC Turbo,4,Gasoline,1,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4,Sage Gray,Black,All-wheel Drive
+257,Honda,CR-V,2024,38855,"gasoline direct injection, DOHC, i-VTEC variable valve co",4,Hybrid,6,Automatic,Hybrid Sport-L,SUV,4,Still Night Pearl,Black,Front-wheel Drive
+258,Jeep,Grand Cherokee 4xe,2024,58909,"gasoline direct injection, DOHC, intercooled turbo, premi",4,Gasoline,34,Automatic,Trailhawk,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+259,RAM,2500,2024,65350,16V MPFI OHV,8,Gasoline,0,8-Speed Automatic,Big Horn,Pickup Truck,4,Patriot Blue Pearlcoat,Black,Four-wheel Drive
+260,Jeep,Grand Cherokee L,2024,49411,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,6,Automatic,Altitude,SUV,4,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive
+263,Dodge,Hornet,2024,50590,16V GDI DOHC Turbo Hybrid,4,Hybrid,10,6-Speed Automatic,R/T Plus,SUV,4,8 BALL,Black,All-wheel Drive
+264,Chevrolet,Silverado 2500,2024,70190,"6.6L V-8 diesel direct injection, intercooled turbo, die",8,Diesel,5,Automatic,LT,Pickup Truck,4,Dark Ash Metallic,Gideon/Very Dark Atmosphere,Four-wheel Drive
+265,Chevrolet,Equinox,2024,25515,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,5,6-Speed Automatic Electronic with Overdrive,LS,SUV,4,Mosaic Black Metallic,Medium Ash Gray,Front-wheel Drive
+266,Jeep,Wrangler,2024,59542,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,10,Automatic,Rubicon,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+267,RAM,ProMaster 2500,2024,53445,24V MPFI DOHC,6,Gasoline,6,9-Speed Automatic,High Roof,Cargo Van,3,Bright Silver Clearcoat Metallic,Black,Front-wheel Drive
+268,RAM,2500,2024,79675,24V DDI OHV Turbo Diesel,6,Diesel,17,6-Speed Automatic,Laramie,Pickup Truck,4,Pearl White,Black,Four-wheel Drive
+270,Ford,Escape,2024,34799,12V PDI DOHC Turbo,3,Gasoline,3,8-Speed Automatic,Active,SUV,4,Carbonized Gray Metallic,Ebony,All-wheel Drive
+271,RAM,2500,2024,67125,24V DDI OHV Turbo Diesel,6,Diesel,5,6-Speed Automatic,Laramie,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+272,Jeep,Grand Cherokee L,2024,46721,OHV,6,Gasoline,10,8-Speed Automatic,Laredo,SUV,4,Metallic,Global Black,Four-wheel Drive
+274,Jeep,Grand Cherokee 4xe,2024,56119,16V GDI DOHC Turbo Hybrid,4,Hybrid,10,8-Speed Automatic,Base,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+275,Volkswagen,Taos,2024,28193,16V GDI DOHC Turbo,4,Gasoline,4,8-Speed Automatic,1.5T SE,SUV,4,Deep Black Pearl Effect,Black,Front-wheel Drive
+276,Mazda,CX-90 PHEV,2024,58949,DOHC 16V LEV3-SULEV30,4,PHEV Hybrid Fuel,26,Automatic,Premium Plus,SUV,4,Artisan Red Premium,Black,All-wheel Drive
+277,Mazda,CX-90 PHEV,2024,54949,DOHC 16V LEV3-SULEV30,4,PHEV Hybrid Fuel,9,Automatic,Premium,SUV,4,Artisan Red Premium,Black,All-wheel Drive
+278,Mazda,CX-90 PHEV,2024,54949,DOHC 16V LEV3-SULEV30,4,PHEV Hybrid Fuel,9,Automatic,Premium,SUV,4,Red,Greige,All-wheel Drive
+279,Subaru,Legacy,2024,31042,16V GDI DOHC,4,Gasoline,5,Automatic CVT,Premium,Sedan,4,Ice Silver Metallic,Gray,All-wheel Drive
+280,Dodge,Hornet,2024,34000,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4,Gasoline,4440,9-speed automatic,GT AWD,SUV,4,Acapulco Gold,Black,All-wheel Drive
+281,Mazda,CX-90 PHEV,2024,54449,DOHC 16V LEV3-SULEV30,4,PHEV Hybrid Fuel,10,Automatic,Premium,SUV,4,Sonic,Greige,All-wheel Drive
+282,Ford,F-350,2024,77885,16V MPFI OHV,8,Gasoline,105,10-Speed Automatic,Lariat Super Duty,Pickup Truck,4,Black,Black Onyx,Four-wheel Drive
+284,Jeep,Compass,2024,31535,16V GDI DOHC Turbo,4,Gasoline,7,8-Speed Automatic,Latitude,SUV,4,Silver Zynith,Black,Four-wheel Drive
+285,Mazda,CX-90 PHEV,2024,50349,DOHC 16V LEV3-SULEV30,4,PHEV Hybrid Fuel,37,Automatic,Preferred,SUV,4,Jet Black Mica,Black,All-wheel Drive
+288,Mazda,CX-90 PHEV,2024,50675,16V GDI DOHC Hybrid,4,Hybrid,0,8-Speed Automatic,Preferred,SUV,4,Rhodium White Metallic,Black,All-wheel Drive
+289,RAM,3500,2024,64516,oled Turbo Diesel I-6 6.7 L/408,6,Diesel,14,Automatic,Tradesman,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive
+290,Dodge,Hornet,2024,36480,oled Turbo Premium Unleaded I-4 2.0 L/122,4,Gasoline,23,Automatic,GT,SUV,4,Gray Cray,Black,All-wheel Drive
+292,Dodge,Durango,2023,47340,16V MPFI OHV,8,Gasoline,33,8-Speed Automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+294,Volkswagen,Jetta,2024,26104,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,9,8-Speed Automatic with Tiptronic,1.4T SE,Sedan,4,Pyrite Silver Metallic,Titan Black,Front-wheel Drive
+295,Dodge,Hornet,2024,42790,16V GDI DOHC Turbo Hybrid,4,Hybrid,10,6-Speed Automatic,R/T,SUV,4,Blue Steel,Black,All-wheel Drive
+296,Dodge,Durango,2023,46835,16V MPFI OHV,8,Gasoline,30,8-Speed Automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+297,Dodge,Durango,2023,47340,16V MPFI OHV,8,Gasoline,35,8-Speed Automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+298,BMW,M235 Gran Coupe,2024,54545,16V GDI DOHC Turbo,4,Gasoline,10,8-Speed Automatic,i xDrive,Sedan,4,Black Sapphire Metallic,Black,All-wheel Drive
+299,RAM,3500,2024,65774,24V DDI OHV Turbo Diesel,6,Diesel,13,6-Speed Automatic,Big Horn,Pickup Truck,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+300,Nissan,Rogue,2024,34305,"o 1.5L I-3 gasoline direct injection, DOHC, CVTCS variabl",3,Gasoline,4,Automatic,SV,SUV,4,Deep Ocean Blue Pearl,Charcoal,All-wheel Drive
+301,Dodge,Hornet,2024,44621,16V GDI DOHC Turbo Hybrid,4,Hybrid,0,6-Speed Automatic,R/T Plus,SUV,4,Q BALL,Black,All-wheel Drive
+302,Dodge,Hornet,2024,39763,16V GDI DOHC Turbo Hybrid,4,Hybrid,0,6-Speed Automatic,R/T,SUV,4,Gold,Black,All-wheel Drive
+303,RAM,3500,2024,67237,"High Output 6.7L I-6 diesel direct injection, VVT interc",6,Diesel,6,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black Interior Color,Four-wheel Drive
+304,Honda,CR-V Hybrid,2024,36900,16V GDI DOHC Hybrid,4,Hybrid,1,Automatic CVT,Sport,SUV,4,Lunar Silver Metallic,Black,All-wheel Drive
+305,Ford,Expedition,2024,90350,24V PDI DOHC Twin Turbo,6,Gasoline,89,10-Speed Automatic,Limited,SUV,4,Star White,Black Onyx,Four-wheel Drive
+306,Ford,Expedition,2024,83910,24V PDI DOHC Twin Turbo,6,Gasoline,65,10-Speed Automatic,Timberline,SUV,4,Green,Black Onyx,Four-wheel Drive
+308,Chevrolet,Silverado 1500,2024,49944,16V GDI OHV,8,Gasoline,2,Automatic,LT,Pickup Truck,4,Radiant Red,Jet Black,Four-wheel Drive
+309,Kia,Sportage,2024,32433,"4 port/direct injection, DOHC, CVVT variable valve contro",4,Gasoline,0,8-Speed Automatic,S,SUV,4,White Pearl,Black,All-wheel Drive
+312,Land Rover,Range Rover Evoque,2024,62145,16V GDI DOHC Turbo,4,Gasoline,19,9-Speed Automatic,Dynamic SE,SUV,4,Arroios Grey,Ebony,All-wheel Drive
+314,RAM,2500,2024,83374,oled Turbo Diesel I-6 6.7 L/408,6,Diesel,5,Automatic,Longhorn,Pickup Truck,4,Diamond Black Crystal Pearlcoat,Lt Mountain Brown/Brown,Four-wheel Drive
+316,Chevrolet,Equinox,2024,31222,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,2,6-Speed Automatic Electronic with Overdrive,FWD RS,SUV,4,Summit White,Jet Black With Red Accents,Front-wheel Drive
+317,GMC,Sierra 2500,2024,85845,32V DDI OHV Turbo Diesel,8,Diesel,2,10-Speed Automatic,Denali,Pickup Truck,4,White Frost Tri-Coat,Jet Black,Four-wheel Drive
+318,Kia,Sportage,2024,30034,"4 port/direct injection, DOHC, CVVT variable valve contro",4,Gasoline,0,8-Speed Automatic,S,SUV,4,Gray,Gry Lthette,Front-wheel Drive
+319,Dodge,Durango,2023,44170,24V MPFI DOHC,6,Gasoline,35,8-Speed Automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+320,Audi,Q5 e,2024,69995,"gasoline direct injection, DOHC, variable valve control,",4,Gasoline,12,7-Speed Automatic S tronic,Premium 55 TFSI e S line quattro S tronic,SUV,4,Daytona Gray Pearl,Gray,All-wheel Drive
+321,Volkswagen,Jetta,2024,27554,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,7,8-Speed Automatic with Tiptronic,1.4T SE,Sedan,4,Opal White Pearl,Titan Black,Front-wheel Drive
+322,Nissan,Titan,2024,45716,"ce 5.6L V-8 gasoline direct injection, DOHC, variable val",8,Gasoline,10,Automatic,SV,Pickup Truck,4,Super Black,Black,Four-wheel Drive
+324,Ford,Edge,2024,42715,16V GDI DOHC Turbo,4,Gasoline,2,8-Speed Automatic,ST-Line,SUV,4,Black,Ebony,All-wheel Drive
+325,Hyundai,Santa Cruz,2024,36970,16V PDI DOHC,4,Gasoline,1,8-Speed Automatic,2.5L SEL,Pickup Truck,4,Atlas,Black,All-wheel Drive
+326,Volkswagen,Jetta,2024,26329,16V GDI DOHC Turbo,4,Gasoline,25,8-Speed Automatic,1.5T SE,Sedan,4,Opal White Pearl Effect,Black,Front-wheel Drive
+327,Chevrolet,Equinox,2024,30101,16V GDI DOHC Turbo,4,Gasoline,2,6-Speed Automatic,1LT,SUV,4,Summit White,Jet Black,All-wheel Drive
+329,Jeep,Grand Cherokee 4xe,2024,54899,16V GDI DOHC Turbo Hybrid,4,Hybrid,11,8-Speed Automatic,Base,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+330,Kia,Sportage,2024,32198,"4 port/direct injection, DOHC, CVVT variable valve contro",4,Gasoline,0,8-Speed Automatic,S,SUV,4,Ebony,Black,All-wheel Drive
+331,Nissan,Titan,2024,54585,"ce 5.6L V-8 gasoline direct injection, DOHC, variable val",8,Gasoline,10,Automatic,SV,Pickup Truck,4,Glacier White,Black,Four-wheel Drive
+332,Jeep,Compass,2024,35999,16V GDI DOHC Turbo,4,Gasoline,0,8-Speed Automatic,Latitude,SUV,4,Metallic,Black,Four-wheel Drive
+333,Hyundai,Tucson Hybrid,2024,36882,16V GDI DOHC Turbo Hybrid,4,Hybrid,11,6-Speed Automatic,SEL Convenience,SUV,4,White Pearl,Gray,All-wheel Drive
+334,Dodge,Durango,2023,47340,16V MPFI OHV,8,Gasoline,32,8-Speed Automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+335,INFINITI,QX50,2024,45055,"o 2L I-4 port/direct injection, DOHC, variable valve cont",4,Gasoline,25,Variable,LUXE,SUV,4,Black Obsidian,Pebble Gray,Front-wheel Drive
+336,RAM,3500,2024,69697,24V DDI OHV Turbo Diesel,6,Diesel,2,Automatic,Big Horn,Pickup Truck,4,White,Black / Diesel Gray,Four-wheel Drive
+338,Dodge,Durango,2023,47785,16V MPFI OHV,8,Gasoline,34,8-Speed Automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+339,Jeep,Wrangler 4xe,2024,51083,"gasoline direct injection, DOHC, intercooled turbo, premi",4,Gasoline,3,8-Speed A/T,Sport S,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+341,Nissan,Kicks,2024,27400,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4,Gasoline,15,CVT,SR,SUV,4,Aspen White Tricoat/Super Black,Charcoal,Front-wheel Drive
+342,Mazda,CX-90 PHEV,2024,52445,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4,Gasoline,5,8-Speed Automatic,Base,SUV,4,Deep Crystal Blue Mica,Greige,All-wheel Drive
+344,Dodge,Durango,2023,47165,16V MPFI OHV,8,Gasoline,39,8-Speed Automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+345,Jeep,Compass,2024,34084,DOHC,4,Gasoline,12,8-Speed Automatic,Limited,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+346,Jeep,Grand Cherokee,2024,50184,24V MPFI DOHC,6,Gasoline,6,8-Speed Automatic,Limited,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+348,Hyundai,Santa Cruz,2024,40380,16V PDI DOHC Turbo,4,Gasoline,1,8-Speed Automatic with Auto-Shift,2.5T NIGHT,Pickup Truck,4,Phantom Black,Black,All-wheel Drive
+349,Land Rover,Discovery Sport,2024,55353,16V GDI DOHC Turbo,4,Gasoline,8,9-Speed Automatic,Dynamic SE,SUV,4,Fuji White,Gray,All-wheel Drive
+350,Mercedes-Benz,Sprinter 3500,2024,72357,16V DDI DOHC Turbo Diesel,4,Diesel,9,9-Speed Automatic,170 WB High Roof Extended Cargo,Cargo Van,3,Gray White,Black,Rear-wheel Drive
+351,Hyundai,Tucson Hybrid,2024,34492,16V GDI DOHC Turbo Hybrid,4,Hybrid,10,6-Speed Automatic,Blue,SUV,4,White Pearl,Black,All-wheel Drive
+352,Hyundai,Santa Cruz,2024,36000,16V PDI DOHC Turbo,4,Gasoline,10,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4,Atlas,Black,All-wheel Drive
+353,Jeep,Compass,2024,35999,16V GDI DOHC Turbo,4,Gasoline,0,8-Speed Automatic,Latitude,SUV,4,Metallic,Black,Four-wheel Drive
+354,Jeep,Grand Cherokee,2024,53160,24V MPFI DOHC,6,Gasoline,6,8-Speed Automatic,Limited,SUV,4,Midnight Sky,Black,Four-wheel Drive
+355,Jeep,Grand Cherokee 4xe,2024,59116,"gasoline direct injection, DOHC, intercooled turbo, premi",4,Gasoline,3,Automatic,4x4,SUV,4,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive
+356,Jeep,Wrangler,2024,67510,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,10,Automatic,Rubicon,SUV,4,Anvil Clear Coat,Black,Four-wheel Drive
+358,Volkswagen,Jetta,2024,25923,16V GDI DOHC Turbo,4,Gasoline,25,8-Speed Automatic,1.5T SE,Sedan,4,Opal White Pearl Effect,Black,Front-wheel Drive
+359,Jeep,Grand Cherokee,2024,50702,24V MPFI DOHC,6,Gasoline,6,8-Speed Automatic,Limited,SUV,4,Metallic,Black,Four-wheel Drive
+360,Volvo,XC90 Recharge Plug-In Hybrid,2024,75595,16V GDI DOHC Turbo Hybrid,4,Hybrid,6,8-Speed Automatic,T8 Plus Bright Theme 7 Passenger,SUV,4,Bright,Charcoal,All-wheel Drive
+361,Jeep,Wrangler 4xe,2024,51845,16V GDI DOHC Turbo Hybrid,4,Hybrid,7,8-Speed Automatic,Sport,SUV,4,Pearlcoat,Black,Four-wheel Drive
+363,RAM,3500,2024,71167,24V DDI OHV Turbo Diesel,6,Diesel,9,6-Speed Automatic,Big Horn,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+364,Hyundai,Santa Cruz,2024,41975,16V PDI DOHC Turbo,4,Gasoline,1,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4,Phantom Black,Black,All-wheel Drive
+366,Hyundai,Sonata Hybrid,2024,32520,16V GDI DOHC Hybrid,4,Hybrid,10,6-Speed Automatic,SEL,Sedan,4,Red,Gray,Front-wheel Drive
+368,Chevrolet,Equinox,2024,31537,16V GDI DOHC Turbo,4,Gasoline,11,6-Speed Automatic,LS,SUV,4,Summit White,Medium Ash Gray,All-wheel Drive
+369,Jeep,Grand Cherokee,2024,47175,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,0,Automatic,Altitude,SUV,4,PAS Baltic Grey Metallic Clear Coat,Global Black,Four-wheel Drive
+370,Dodge,Hornet,2024,51585,16V GDI DOHC Turbo Hybrid,4,Hybrid,10,6-Speed Automatic,R/T Plus,SUV,4,8 BALL,Black,All-wheel Drive
+371,Jeep,Wagoneer L,2023,86097,24V GDI DOHC Twin Turbo,6,Gasoline,9711,8-Speed Automatic,Series III,SUV,4,Riverrock Green,Sea Salt,Four-wheel Drive
+374,Nissan,Frontier,2024,37946,24V GDI DOHC,6,Gasoline,9,9-Speed Automatic,SV,Pickup Truck,4,Glacier White,Charcoal,Rear-wheel Drive
+375,Chevrolet,Equinox,2024,31301,16V GDI DOHC Turbo,4,Gasoline,2,6-Speed Automatic,1LT,SUV,4,Mosaic Black Metallic,Jet Black,All-wheel Drive
+376,RAM,3500,2023,63010,16V MPFI OHV,8,Gasoline,95,8-Speed Automatic,Tradesman,Pickup Truck,2,Bright White Clearcoat,Black,Four-wheel Drive
+377,Nissan,Titan,2024,50030,Unleaded V-8 5.6 L/339,8,Gasoline,1,Automatic,SV,Pickup Truck,4,Gun Metallic,Black,Four-wheel Drive
+378,GMC,Savana 2500,2024,42990,12V GDI OHV,6,Gasoline,0,8-Speed Automatic,Work Van,Cargo Van,3,Summit White,Medium Pewter,Rear-wheel Drive
+379,Chevrolet,Equinox,2024,32635,16V GDI DOHC Turbo,4,Gasoline,0,6-Speed Automatic,RS,SUV,4,Mosaic Black Metallic,Jet Black,Front-wheel Drive
+380,Nissan,Titan,2023,46672,"ce 5.6L V-8 gasoline direct injection, DOHC, variable val",8,Gasoline,1,Automatic,SV,Pickup Truck,4,Super Black,Black,Four-wheel Drive
+381,Honda,HR-V,2024,27450,"gasoline direct injection, DOHC, i-VTEC variable valve co",4,Gasoline,10,Automatic,LX,SUV,4,Deep Ocean Pearl,Nh-731p/Black,All-wheel Drive
+382,Kia,Niro,2024,34310,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,13,6-SPEED AUTOMATIC,Touring,SUV,4,Aurora Black,Medium Gray,Front-wheel Drive
+383,Buick,Encore GX,2024,36190,12V GDI DOHC Turbo,3,Gasoline,7,9-Speed Automatic,Avenir,SUV,4,Ocean Blue Metallic,Ebony,All-wheel Drive
+385,Mazda,CX-90 PHEV,2024,57849,DOHC 16V LEV3-SULEV30,4,PHEV Hybrid Fuel,4,Automatic,Premium Plus,SUV,4,Jet Black Mica,Black,All-wheel Drive
+388,Jeep,Compass,2024,28867,"gasoline direct injection, DOHC, variable valve control,",4,Gasoline,10,Automatic,Latitude,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+389,RAM,ProMaster 2500,2024,53890,24V MPFI DOHC,6,Gasoline,3,9-Speed Automatic,High Roof,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+394,Hyundai,Tucson Hybrid,2024,35364,16V GDI DOHC Turbo Hybrid,4,Hybrid,33,6-Speed Automatic,SEL Convenience,SUV,4,Phantom Black,Black,All-wheel Drive
+395,Hyundai,Tucson Hybrid,2024,35885,16V GDI DOHC Turbo Hybrid,4,Hybrid,15,6-Speed Automatic,N Line,SUV,4,Black Pearl,Black,All-wheel Drive
+396,Mercedes-Benz,GLE 450,2024,85630,24V GDI DOHC Turbo,6,Gasoline,7,9-Speed Automatic,4MATIC,SUV,4,Black,Black,All-wheel Drive
+398,Mazda,CX-90 PHEV,2024,58399,DOHC 16V LEV3-SULEV30,4,PHEV Hybrid Fuel,4,Automatic,Premium Plus,SUV,4,Rhodium White Premium,Black,All-wheel Drive
+400,Chevrolet,Silverado 1500,2024,49632,16V GDI OHV,8,Gasoline,2,Automatic,LT,Pickup Truck,4,Radiant Red,Jet Black,Four-wheel Drive
+401,Mazda,CX-90 PHEV,2024,55439,16V GDI DOHC Hybrid,4,Hybrid,0,8-Speed Automatic,Premium,SUV,4,Artisan Red Metallic,Black,All-wheel Drive
+402,Volkswagen,Taos,2024,30618,16V GDI DOHC Turbo,4,Gasoline,11,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4,Deep Black Pearl Effect,Gray,All-wheel Drive
+403,Dodge,Charger,2023,35821,24V MPFI DOHC,6,Gasoline,20,8-Speed Automatic,SXT,Sedan,4,Black,Black,Rear-wheel Drive
+404,Dodge,Charger,2023,36083,24V MPFI DOHC,6,Gasoline,20,8-Speed Automatic,SXT,Sedan,4,White,Black,Rear-wheel Drive
+405,Mercedes-Benz,GLS 450,2024,98180,24V GDI DOHC Turbo,6,Gasoline,5,9-Speed Automatic,4MATIC,SUV,4,Polar White,Beige / Black,All-wheel Drive
+406,Dodge,Hornet,2024,44604,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,6-Speed Automatic,R/T Plus,SUV,4,8 BALL,Black,All-wheel Drive
+408,Jeep,Compass,2024,32269,16V GDI DOHC Turbo,4,Gasoline,0,8-Speed Automatic,Latitude,SUV,4,Metallic,Black,Four-wheel Drive
+410,Dodge,Hornet,2024,45051,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,6-Speed Automatic,R/T Plus,SUV,4,Gray,Black,All-wheel Drive
+411,Land Rover,Discovery Sport,2024,57508,16V GDI DOHC Turbo,4,Gasoline,19,9-Speed Automatic,Dynamic SE,SUV,4,Eiger Grey,Gray,All-wheel Drive
+412,Ford,Transit-250,2024,51803,"6 port/direct injection, DOHC, variable valve control, re",6,Gasoline,1,Automatic,Base,Cargo Van,3,Oxford White,Dk Palazzo Gry Fron,Rear-wheel Drive
+415,Jeep,Grand Cherokee L,2024,52631,OHV,6,Gasoline,10,8-Speed Automatic,Limited,SUV,4,Metallic,Global Black,Four-wheel Drive
+418,Chevrolet,Trax,2024,24680,12V GDI DOHC Turbo,3,Gasoline,5,6-Speed Automatic,LT,SUV,4,Cayenne Orange Metallic,Jet Black,Front-wheel Drive
+421,RAM,3500,2024,80095,oled Turbo Diesel I-6 6.7 L/408,6,Diesel,20,Automatic,Laramie,Pickup Truck,4,Flame Red Clearcoat,Black,Four-wheel Drive
+422,Honda,Odyssey,2024,44350,"6 gasoline direct injection, i-VTEC variable valve contro",6,Gasoline,0,Automatic,Touring,Passenger Van,4,Platinum White Pearl,Black,Front-wheel Drive
+423,RAM,ProMaster 3500,2023,66375,"6 DOHC, variable valve control, regular unleaded, engine",6,Gasoline,17,Automatic,High Roof,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+425,Chevrolet,Silverado 1500,2024,57635,"5.3L V-8 gasoline direct injection, variable valve contr",8,Gasoline,5,Automatic,Custom Trail Boss,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive
+426,Chrysler,Pacifica,2023,45300,"6 DOHC, VVT variable valve control, engine with cylinder",6,Gasoline,25,9-Speed 948TE Automatic,Touring L,Minivan,4,Fathom Blue Pearlcoat,Black/Alloy/Black,Front-wheel Drive
+427,Jeep,Compass,2024,28860,16V GDI DOHC Turbo,4,Gasoline,11,8-Speed Automatic,Latitude,SUV,4,Diamond Black,Black,Four-wheel Drive
+428,Dodge,Hornet,2024,34637,16V GDI DOHC Turbo,4,Gasoline,54,9-Speed Automatic,GT,SUV,4,Gray,Black,All-wheel Drive
+429,Jeep,Grand Cherokee,2024,50184,24V MPFI DOHC,6,Gasoline,6,8-Speed Automatic,Limited,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+430,Jeep,Wagoneer L,2024,87190,24V GDI DOHC Twin Turbo,6,Gasoline,12,8-Speed Automatic,Series II,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+431,Mazda,CX-90 PHEV,2024,55399,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4,Gasoline,2,8-Speed Automatic,Base,SUV,4,Soul Red Crystal Metallic,Griege,All-wheel Drive
+432,Hyundai,Tucson Hybrid,2024,41391,16V GDI DOHC Turbo Hybrid,4,Hybrid,7,6-Speed Automatic,Limited,SUV,4,White Pearl,Gray,All-wheel Drive
+433,Ford,Bronco Sport,2024,30020,oBoost,3,Gasoline,0,8-Speed Automatic,Big Bend,SUV,4,Oxford White,Ebony,Four-wheel Drive
+435,Dodge,Durango,2023,46835,16V MPFI OHV,8,Gasoline,19,8-Speed Automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+438,Nissan,Kicks,2024,26500,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4,Gasoline,15,CVT,SR,SUV,4,Scarlet Ember Tintcoat,Charcoal,Front-wheel Drive
+439,Dodge,Durango,2023,53995,16V MPFI OHV,8,Gasoline,12,8-Speed Automatic,R/T,SUV,4,DB Black Clearcoat,Black,All-wheel Drive
+440,Land Rover,Defender,2024,77645,24V GDI DOHC Turbo,6,Gasoline,9,8-Speed Automatic,P400 X-Dynamic SE,SUV,2,Gondwana Stone,Ebony,Four-wheel Drive
+441,Jeep,Wrangler 4xe,2024,58648,"gasoline direct injection, DOHC, intercooled turbo, premi",4,Gasoline,3,8-Speed A/T,Sahara,SUV,4,Anvil Clear Coat,Black,Four-wheel Drive
+442,Chrysler,Pacifica,2024,46450,24V MPFI DOHC,6,Gasoline,42,9-Speed Automatic,Touring-L,Passenger Van,4,Bright White Clearcoat,Black,All-wheel Drive
+444,Ford,Edge,2024,41195,16V GDI DOHC Turbo,4,Gasoline,5,8-Speed Automatic,SEL,SUV,4,Agate Black Metallic,Ebony,All-wheel Drive
+445,Jeep,Gladiator,2024,46791,24V MPFI DOHC,6,Gasoline,12,Automatic,Sport,Pickup Truck,4,Black Clearcoat,Black,Four-wheel Drive
+448,Dodge,Durango,2023,47165,16V MPFI OHV,8,Gasoline,31,8-Speed Automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+449,Audi,Q5 e,2024,78695,"gasoline direct injection, DOHC, variable valve control,",4,Gasoline,12,7-Speed Automatic S tronic,55 Prestige,SUV,4,Silver Metallic,Black,All-wheel Drive
+450,BMW,X7,2024,115445,32V GDI DOHC Twin Turbo,8,Gasoline,447,8-Speed Automatic,M60i,SUV,4,Mineral White Metallic,Black,All-wheel Drive
+451,Jeep,Compass,2024,34182,16V GDI DOHC Turbo,4,Gasoline,0,8-Speed Automatic,Latitude,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+453,Dodge,Hornet,2024,38546,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4,Gasoline,73,9-Speed 948TE Automatic,GT Plus AWD,SUV,4,8 Ball,Black,All-wheel Drive
+455,RAM,2500,2024,61865,16V MPFI OHV,8,Gasoline,0,8-Speed Automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+456,Jeep,Compass,2024,26860,16V GDI DOHC Turbo,4,Gasoline,3,8-Speed Automatic,Latitude,SUV,4,Silver Zynith,Black,Four-wheel Drive
+457,Jeep,Compass,2024,29826,16V GDI DOHC Turbo,4,Gasoline,6,8-Speed Automatic,Latitude Lux,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+458,Dodge,Hornet,2024,42597,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,6-Speed Automatic,R/T,SUV,4,Gray,Black,All-wheel Drive
+459,Kia,Niro,2024,37135,16V GDI DOHC Hybrid,4,Hybrid,399,Automatic,SX Touring,SUV,4,Runway Red,Medium Gray,Front-wheel Drive
+460,Dodge,Hornet,2024,52180,16V GDI DOHC Turbo Hybrid,4,Hybrid,10,6-Speed Automatic,R/T Plus,SUV,4,Blue Steel,Black,All-wheel Drive
+462,Jeep,Grand Cherokee 4xe,2024,61506,"gasoline direct injection, DOHC, intercooled turbo, premi",4,Gasoline,3,Automatic,Anniversary Edition,SUV,4,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive
+463,Buick,Envision,2023,37135,16V GDI DOHC Turbo,4,Gasoline,6,9-Speed Automatic,Preferred,SUV,4,White Frost Tri-Coat,Ebony,All-wheel Drive
+464,Ford,Escape,2024,33590,der,4,Hybrid,0,CVT,ST-Line,SUV,4,Agate Black,Ebony W/Red Stitching,Front-wheel Drive
+465,Ford,Escape,2024,41765,der,4,Hybrid,0,CVT,S,SUV,4,Star White Metallic Tri-Coat,Ebony,Front-wheel Drive
+467,Chevrolet,Silverado 1500,2024,65416,"5.3L V-8 gasoline direct injection, variable valve contr",8,Gasoline,5,automatic w/paddle shifters,LT Trail Boss,Pickup Truck,4,Slate Gray Metallic,Jet Black,Four-wheel Drive
+468,Hyundai,Santa Cruz,2024,43299,16V PDI DOHC Turbo,4,Gasoline,1,8-Speed Automatic with Auto-Shift,2.5T Limited,Pickup Truck,4,Phantom Black,Dark Gray,All-wheel Drive
+469,Dodge,Durango,2023,46835,16V MPFI OHV,8,Gasoline,5,8-Speed Automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+470,Jeep,Grand Cherokee,2024,47744,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,12,Automatic,Limited,SUV,4,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive
+471,Jeep,Grand Cherokee L,2024,53455,24V VVT,6,Gasoline,0,8-Speed Automatic,Limited,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+472,Ford,Transit-250,2024,52853,"6 port/direct injection, DOHC, variable valve control, re",6,Gasoline,0,Automatic,Base,Cargo Van,3,Oxford White,Dk Palazzo Gry Fron,Rear-wheel Drive
+473,Ford,Bronco,2024,69035,24V PDI DOHC Twin Turbo,6,Gasoline,9,10-Speed Automatic,Wildtrak,SUV,4,Azure Gray Metallic,Medium Sandstone,Four-wheel Drive
+474,Dodge,Hornet,2024,32485,">
+
+    
+    <dt>VIN</dt>
+     ZACNDFAN0R3A12168",4,Gasoline,48,9 Spd Automatic,GT AWD,SUV,4,Blu Bayou,Black,All-wheel Drive
+475,Kia,Niro,2024,31860,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,17,A/T,EX,SUV,4,Snow White Pearl,Medium Gray,Front-wheel Drive
+477,Hyundai,Elantra HEV,2024,27080,".6L I-4 gasoline direct injection, DOHC, D-CVVT variable",4,Hybrid,14,Automatic,Blue,Sedan,4,Serenity White,Medium Gray,Front-wheel Drive
+482,RAM,3500,2024,64214,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6,Diesel,6,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4,Bright White Clearcoat,Black Interior Color,Four-wheel Drive
+483,RAM,3500,2024,82523,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6,Diesel,8,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+485,Chevrolet,Silverado 1500,2024,49496,16V GDI OHV,8,Gasoline,2,Automatic,LT,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive
+486,Chevrolet,Silverado 1500,2024,43135,16V GDI DOHC Turbo,4,Gasoline,9,Automatic,LT,Pickup Truck,4,Black,Jet Black,Four-wheel Drive
+487,Jeep,Compass,2024,28867,"gasoline direct injection, DOHC, variable valve control,",4,Gasoline,8,Automatic,Latitude,SUV,4,Silver Zynith Metallic Clearcoat,Black,Four-wheel Drive
+491,Hyundai,Tucson Hybrid,2024,33109,16V GDI DOHC Turbo Hybrid,4,Hybrid,15,6-Speed Automatic,Blue,SUV,4,Deep Sea,Gray,All-wheel Drive
+492,Mazda,CX-90 PHEV,2024,54949,DOHC 16V LEV3-SULEV30,4,PHEV Hybrid Fuel,8,Automatic,Premium,SUV,4,Gray,Black,All-wheel Drive
+493,Hyundai,Tucson Hybrid,2024,39832,16V GDI DOHC Turbo Hybrid,4,Hybrid,25,6-Speed Automatic,Limited,SUV,4,Black Pearl,Gray,All-wheel Drive
+496,Dodge,Charger,2023,37490,24V MPFI DOHC,6,Gasoline,20,8-Speed Automatic,SXT,Sedan,4,Green,Black,Rear-wheel Drive
+497,RAM,2500,2024,46670,16V MPFI OHV,8,Gasoline,5,8-Speed Automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+498,Ford,Expedition,2024,88135,24V PDI DOHC Twin Turbo,6,Gasoline,6,10-Speed Automatic,Platinum,SUV,4,Black,Black Onyx,Four-wheel Drive
+501,Jeep,Gladiator,2023,54210,24V MPFI DOHC,6,Gasoline,0,8-Speed Automatic,Rubicon,Pickup Truck,4,High Velocity Clearcoat,Black,Four-wheel Drive
+502,Jeep,Grand Cherokee,2024,43585,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,5,Automatic,Altitude,SUV,4,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive
+504,Jeep,Wrangler 4xe,2024,49550,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,8-Speed Automatic,Sport,SUV,4,Anvil Clearcoat,Black,Four-wheel Drive
+505,Volkswagen,Jetta,2024,22260,16V GDI DOHC Turbo,4,Gasoline,28,8-Speed Automatic,1.5T S,Sedan,4,Pyrite Silver Metallic,Titan Black,Front-wheel Drive
+507,Jeep,Grand Cherokee,2024,47744,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,9,Automatic,Limited,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+508,Jeep,Grand Cherokee 4xe,2024,54899,16V GDI DOHC Turbo Hybrid,4,Hybrid,12,8-Speed Automatic,Base,SUV,4,Baltic Gray,Global Black,Four-wheel Drive
+509,RAM,3500,2024,84860,24V DDI OHV Turbo Diesel,6,Diesel,6,6-Speed Automatic,Laramie,Pickup Truck,4,Pearl White,Black,Four-wheel Drive
+510,RAM,2500,2024,71846,oled Turbo Diesel I-6 6.7 L/408,6,Diesel,5,Automatic,Tradesman,Pickup Truck,4,Diamond Black Crystal Pearlcoat,Black,Four-wheel Drive
+511,Dodge,Hornet,2024,46490,"4 gasoline direct injection, DOHC, Multiair variable valv",4,Gasoline,21,6-Speed Automatic,R/T Plus EAWD,SUV,4,Q Ball,Black,All-wheel Drive
+513,Chevrolet,Silverado 1500,2024,49180,16V GDI OHV,8,Gasoline,2,Automatic,LT,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive
+515,Volkswagen,Taos,2024,35683,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,5,7-Speed DSG Automatic with Tiptronic,1.5T SEL,SUV,4,Blue,Brown/Blk,All-wheel Drive
+516,Ford,Expedition,2024,84190,24V PDI DOHC Twin Turbo,6,Gasoline,6,10-Speed Automatic,Limited,SUV,4,White,Black Onyx,Four-wheel Drive
+517,Hyundai,Sonata Hybrid,2024,38870,16V GDI DOHC Hybrid,4,Hybrid,5,6-Speed Automatic,Limited,Sedan,4,Carbon Blue,Black,Front-wheel Drive
+518,RAM,3500,2023,71999,oled Turbo Diesel I-6 6.7 L/408,6,Diesel,252,Automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+519,Jeep,Grand Cherokee,2024,47080,OHV,6,Gasoline,6,8-Speed Automatic,Laredo,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+521,Jeep,Compass,2024,33255,16V GDI DOHC Turbo,4,Gasoline,10,8-Speed Automatic,Latitude,SUV,4,Granite Crystal Clearcoat Metallic,Black,Four-wheel Drive
+523,Jeep,Wrangler,2024,48612,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,10,Automatic,Sport S,SUV,4,Black Clearcoat,Black,Four-wheel Drive
+524,BMW,X7,2025,90945,24V DOHC,6,Gasoline,4,8-Speed Automatic,xDrive40i,SUV,4,Aventurin Red Metallic,Black,All-wheel Drive
+525,Dodge,Durango,2023,47340,16V MPFI OHV,8,Gasoline,5,8-Speed Automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+526,Hyundai,Santa Cruz,2024,37100,16V PDI DOHC,4,Gasoline,1,8-Speed Automatic,2.5L SEL,Pickup Truck,4,Phantom Black,Gray,All-wheel Drive
+527,Mazda,CX-90 PHEV,2024,59205,16V GDI DOHC Hybrid,4,Hybrid,3,8-Speed Automatic,Premium Plus,SUV,4,Jet Black Mica,Black,All-wheel Drive
+528,Ford,Bronco Sport,2024,31390,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3,Gasoline,13,Automatic,Big Bend,SUV,4,Carbonized Gray Metallic,Ebony,Four-wheel Drive
+529,Hyundai,Palisade,2024,46905,24V GDI DOHC,6,Gasoline,25,8-Speed Automatic,SEL,SUV,4,Steel / Graphite,Gray / Black,All-wheel Drive
+530,Hyundai,Santa Cruz,2024,36499,16V PDI DOHC Turbo,4,Gasoline,10,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4,Phantom Black,Black,All-wheel Drive
+532,RAM,2500,2024,74990,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6,Diesel,15,Automatic,Power Wagon,Pickup Truck,4,Olive Green Pearlcoat,Black,Four-wheel Drive
+533,Mazda,CX-90 PHEV,2024,55399,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4,Gasoline,2,8-Speed Automatic,Base,SUV,4,Soul Red Crystal Metallic,Griege,All-wheel Drive
+534,Honda,CR-V Hybrid,2024,40355,16V GDI DOHC Hybrid,4,Hybrid,68,Automatic CVT,Sport-L,SUV,4,Platinum White Pearl,Black,All-wheel Drive
+535,Jeep,Grand Cherokee,2023,43000,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,16,8-speed automatic,Laredo,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+537,Hyundai,Sonata Hybrid,2024,38870,16V GDI DOHC Hybrid,4,Hybrid,9,6-Speed Automatic,Limited,Sedan,4,Red,Black,Front-wheel Drive
+538,BMW,740,2024,103045,24V GDI DOHC Turbo,6,Gasoline,19,8-Speed Automatic,i,Sedan,4,Black Sapphire Metallic,Black,Rear-wheel Drive
+539,Volkswagen,Taos,2024,28997,16V GDI DOHC Turbo,4,Gasoline,3,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4,Blue Dusk,Black,All-wheel Drive
+540,Volkswagen,Taos,2024,29066,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,5,8-Speed Automatic with Tiptronic,1.5T SE,SUV,4,Pure White,Black,Front-wheel Drive
+542,GMC,Terrain,2024,33092,16V GDI DOHC Turbo,4,Gasoline,0,9-Speed Automatic,SLE,SUV,4,Volcanic Red,Jet Black,All-wheel Drive
+543,Hyundai,Palisade,2024,47100,24V GDI DOHC,6,Gasoline,26,8-Speed Automatic,SEL,SUV,4,Hyper White,Black,All-wheel Drive
+544,Volkswagen,Taos,2024,32406,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,11,8-speed automatic,1.5T SE,SUV,4,Deep Black Pearl,Black,Front-wheel Drive
+545,Ford,Explorer,2024,40145,16V GDI DOHC Turbo,4,Gasoline,9,10-Speed Automatic,XLT,SUV,4,Carbonized Gray Metallic,Ebony,Rear-wheel Drive
+546,Nissan,Kicks,2024,24600,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4,Gasoline,15,CVT,SV,SUV,4,Aspen White Tricoat/Super Black,Charcoal,Front-wheel Drive
+547,Jeep,Grand Cherokee 4xe,2024,69201,16V GDI DOHC Turbo Hybrid,4,Hybrid,11,8-Speed Automatic,Summit,SUV,4,Velvet Red Pearlcoat,Tupelo,Four-wheel Drive
+548,Dodge,Durango,2023,46835,16V MPFI OHV,8,Gasoline,32,8-Speed Automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+549,Nissan,Versa,2024,17994,16V MPFI DOHC,4,Gasoline,8,Automatic CVT,S,Sedan,4,Electric Blue Metallic,Charcoal,Front-wheel Drive
+550,Ford,Escape,2024,40630,16V GDI DOHC Turbo,4,Gasoline,7,8-Speed Automatic,ST-Line Elite,SUV,4,Iconic Silver Metallic,Red,All-wheel Drive
+551,Jeep,Grand Cherokee,2024,49075,OHV,6,Gasoline,1,8-Speed Automatic,Laredo,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+552,Volkswagen,Jetta,2024,23160,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,7,8-Speed Automatic with Tiptronic,1.4T S,Sedan,4,Deep Black Pearl,Titan Black,Front-wheel Drive
+553,Dodge,Durango,2023,46835,16V MPFI OHV,8,Gasoline,31,8-Speed Automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+556,Ford,Transit-250,2024,51803,"6 port/direct injection, DOHC, variable valve control, re",6,Gasoline,1,Automatic,Base,Cargo Van,3,Oxford White,Dk Palazzo Gry Fron,Rear-wheel Drive
+557,Jeep,Grand Cherokee 4xe,2024,67784,16V GDI DOHC Turbo Hybrid,4,Hybrid,35,8-Speed Automatic,Trailhawk,SUV,4,Diamond Black,Global Black,Four-wheel Drive
+558,Hyundai,Santa Cruz,2024,40449,16V PDI DOHC Turbo,4,Gasoline,1,8-Speed Automatic with Auto-Shift,2.5T NIGHT,Pickup Truck,4,Hampton Gray,Black,All-wheel Drive
+559,Chevrolet,Equinox,2024,30188,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,3,6-Speed Automatic Electronic with Overdrive,1LT,SUV,4,Sterling Gray Metallic,Medium Ash Gray,Front-wheel Drive
+560,Mazda,CX-90 PHEV,2024,59420,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4,Gasoline,5,Automatic,Base,SUV,4,Artisan Red Premium,Black,All-wheel Drive
+561,Mazda,CX-90 PHEV,2024,60080,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4,Gasoline,5,8-Speed Automatic,Base,SUV,4,Deep Crystal Blue Mica,Black,All-wheel Drive
+562,Buick,Envision,2023,42785,16V GDI DOHC Turbo,4,Gasoline,13,9-Speed Automatic,Essence,SUV,4,Ebony Twilight Metallic,Ebony,All-wheel Drive
+564,Dodge,Durango,2023,47280,16V MPFI OHV,8,Gasoline,13,8-Speed Automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+565,Jeep,Compass,2024,30525,16V GDI DOHC Turbo,4,Gasoline,0,8-Speed Automatic,Latitude,SUV,4,Metallic,Black,Four-wheel Drive
+566,Honda,Passport,2024,44850,24V GDI SOHC,6,Gasoline,3,9-Speed Automatic,TrailSport,SUV,4,Sky,Black,All-wheel Drive
+568,Nissan,Titan,2024,47105,Unleaded V-8 5.6 L/339,8,Gasoline,5,Automatic,SV,Pickup Truck,4,Glacier White,Black,Four-wheel Drive
+569,Jeep,Compass,2024,38736,DOHC,4,Gasoline,12,8-Speed Automatic,Limited,SUV,4,Laser Blue Pearlcoat,Black,Four-wheel Drive
+570,Jeep,Compass,2024,28265,16V GDI DOHC Turbo,4,Gasoline,7,8-Speed Automatic,Latitude,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+571,Jeep,Wrangler 4xe,2024,58230,16V GDI DOHC Turbo Hybrid,4,Hybrid,17,8-Speed Automatic,Sahara,SUV,4,Anvil Clearcoat,Black,Four-wheel Drive
+572,Jeep,Wrangler 4xe,2024,67190,16V GDI DOHC Turbo Hybrid,4,Hybrid,12,8-Speed Automatic,Rubicon,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+574,Ford,Escape,2024,30278,der,3,Gasoline,0,8-Speed Shiftable Automatic,Active,SUV,4,Iconic Silver,Ebony,Front-wheel Drive
+576,Jeep,Wrangler 4xe,2024,66960,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,8-Speed Automatic,Rubicon,SUV,4,Black Clearcoat,Black,Four-wheel Drive
+577,Jeep,Compass,2024,31535,16V GDI DOHC Turbo,4,Gasoline,7,8-Speed Automatic,Latitude,SUV,4,Metallic,Black,Four-wheel Drive
+578,Chevrolet,Equinox,2024,30955,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,3,Automatic,LS,SUV,4,Summit White,Medium Ash Gray,All-wheel Drive
+579,Dodge,Hornet,2024,34698,16V GDI DOHC Turbo,4,Gasoline,10,9-Speed Automatic,GT,SUV,4,Gold,Black,All-wheel Drive
+581,Ford,Transit-250,2024,61248,"6 port/direct injection, DOHC, variable valve control, re",6,Gasoline,0,Automatic,Base,Cargo Van,3,Oxford White,Gray,Rear-wheel Drive
+583,Jeep,Grand Cherokee,2024,40925,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,0,Automatic,Laredo,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+584,Chevrolet,Silverado 1500,2024,76475,16V GDI OHV,8,Gasoline,2,10-Speed Automatic,ZR2,Pickup Truck,4,Summit White,Gray,Four-wheel Drive
+585,Chevrolet,Silverado 1500,2024,49180,16V GDI OHV,8,Gasoline,2,Automatic,LT,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive
+587,Jeep,Grand Cherokee,2024,65360,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,0,Automatic,Summit,SUV,4,Diamond Black Crystal Pearlcoat,Tupelo/Black,Four-wheel Drive
+588,Chevrolet,Silverado 1500,2024,47650,16V GDI OHV,8,Gasoline,5,10-Speed Automatic,Custom Trail Boss,Pickup Truck,4,Summit White,Black,Four-wheel Drive
+591,Hyundai,Elantra HEV,2024,30335,16V GDI DOHC Hybrid,4,Hybrid,0,Automatic,Limited,Sedan,4,Gray Pearl,Melange,Front-wheel Drive
+592,Hyundai,Tucson Hybrid,2024,33695,16V GDI DOHC Turbo Hybrid,4,Hybrid,11,6-Speed Automatic,Blue,SUV,4,White Pearl,Black,All-wheel Drive
+593,Volkswagen,Jetta,2024,29374,16V GDI DOHC Turbo,4,Gasoline,28,8-Speed Automatic,1.5T SEL,Sedan,4,Opal White Pearl Effect,Volcano Brown,Front-wheel Drive
+595,Hyundai,Tucson Hybrid,2024,35744,16V GDI DOHC Turbo Hybrid,4,Hybrid,15,6-Speed Automatic,SEL Convenience,SUV,4,Black Pearl,Gray,All-wheel Drive
+597,Hyundai,Elantra HEV,2024,25975,16V GDI DOHC Hybrid,4,Hybrid,15,6-Speed DCT Automatic,Blue,Sedan,4,Gray Pearl,Black,Front-wheel Drive
+599,Toyota,Tundra Hybrid,2024,68256,"MAX 3.4L V-6 port/direct injection, DOHC, variable valve",6,Hybrid,10,10-Speed Automatic,Limited,Pickup Truck,4,Celestial Silver Metallic,Black SofTex-trimmed [softex],Four-wheel Drive
+600,RAM,ProMaster 3500,2024,67749,24V MPFI DOHC,6,Gasoline,181,9-Speed Automatic,Base,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+601,Jeep,Grand Cherokee L,2024,49735,24V VVT,6,Gasoline,0,8-Speed Automatic,Limited,SUV,4,Bright White Clearcoat,Wicker Beige/Black,Four-wheel Drive
+602,Dodge,Hornet,2024,49885,16V GDI DOHC Turbo Hybrid,4,Hybrid,2,6-Speed Automatic,R/T Plus,SUV,4,Gold,Black,All-wheel Drive
+603,Toyota,Corolla Cross,2024,30499,16V PDI DOHC,4,Gasoline,1,Automatic CVT,LE,SUV,4,CELESTITE,Ash,All-wheel Drive
+605,Ford,Explorer,2024,40145,16V GDI DOHC Turbo,4,Gasoline,9,10-Speed Automatic,XLT,SUV,4,Iconic Silver Metallic,Ebony,Rear-wheel Drive
+606,Mazda,CX-90 PHEV,2024,54939,DOHC 16V LEV3-SULEV30,4,PHEV Hybrid Fuel,3,Automatic,Premium,SUV,4,Rhodium,Greige,All-wheel Drive
+609,Dodge,Durango,2023,46835,16V MPFI OHV,8,Gasoline,23,8-Speed Automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+611,Jeep,Grand Wagoneer,2024,124250,24V GDI DOHC Twin Turbo,6,Gasoline,0,8-Speed Automatic,Series III,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+615,Cadillac,XT5,2024,47225,"gasoline direct injection, DOHC, variable valve control,",4,Gasoline,5,9-Speed Automatic,Luxury,SUV,4,Stellar Black Metallic,Jet Black,All-wheel Drive
+616,Hyundai,Santa Cruz,2024,31610,16V PDI DOHC,4,Gasoline,3,8-Speed Automatic,2.5L SEL,Pickup Truck,4,Sage Gray,Black,All-wheel Drive
+617,Toyota,Tundra Hybrid,2024,72977,24V PDI DOHC Twin Turbo Hybrid,6,Hybrid,7,10-Speed Automatic,1794 Edition,Pickup Truck,4,Smoked Mesquite,Tan,Four-wheel Drive
+618,Dodge,Hornet,2024,36734,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4,Gasoline,14,9-Speed 948TE Automatic,GT AWD,SUV,4,Blu Bayou,Black,All-wheel Drive
+619,RAM,3500,2024,61330,24V DDI OHV Turbo Diesel,6,Diesel,6,6-Speed Automatic,Tradesman,Pickup Truck,2,Flame Red Clearcoat,Black,Four-wheel Drive
+620,Hyundai,Kona,2024,32009,16V MPFI DOHC,4,Gasoline,1,Automatic CVT,SEL,SUV,4,Atlas,Black,All-wheel Drive
+621,Chevrolet,Silverado 1500,2024,49229,16V GDI OHV,8,Gasoline,17,Automatic,LT,Pickup Truck,4,Black,Jet Black,Four-wheel Drive
+622,INFINITI,QX55,2023,54200,16V PDI DOHC Turbo,4,Gasoline,0,Automatic CVT,SENSORY,SUV,4,Graphite Shadow,Graphite,All-wheel Drive
+623,Jeep,Compass,2023,25999,"gasoline direct injection, DOHC, variable valve control,",4,Gasoline,14,Automatic,Sport,SUV,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+624,Mazda,CX-90 PHEV,2024,56995,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4,Gasoline,30,Automatic,Base,SUV,4,Rhodium White Premium,Black,All-wheel Drive
+625,Chevrolet,Equinox,2024,34472,16V GDI DOHC Turbo,4,Gasoline,6,6-Speed Automatic,1LT,SUV,4,Radiant Red,Jet Black,All-wheel Drive
+626,Nissan,Kicks,2024,25410,16V MPFI DOHC,4,Gasoline,12,Automatic CVT,SR,SUV,4,Boulder Gray Metallic,Charcoal,Front-wheel Drive
+631,Volkswagen,Jetta,2024,29895,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,10,8-Speed Automatic with Tiptronic,1.4T SEL,Sedan,4,Deep Black Pearl,Titan Black,Front-wheel Drive
+633,RAM,ProMaster 3500,2024,68095,24V MPFI DOHC,6,Gasoline,186,9-Speed Automatic,Base,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+634,Volkswagen,Jetta,2024,24348,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,7,8-Speed Automatic with Tiptronic,1.4T S,Sedan,4,Pure White,Titan Black,Front-wheel Drive
+635,RAM,3500,2024,65260,oled Turbo Diesel I-6 6.7 L/408,6,Diesel,15,Automatic,Tradesman,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive
+636,GMC,Terrain,2024,40980,16V GDI DOHC Turbo,4,Gasoline,0,9-Speed Automatic,Denali,SUV,4,White Frost Tri-Coat,Light Platinum,All-wheel Drive
+637,Honda,CR-V Hybrid,2024,36900,16V GDI DOHC Hybrid,4,Hybrid,1,Automatic CVT,Sport,SUV,4,Lunar Silver Metallic,Black,All-wheel Drive
+639,RAM,3500,2024,72294,24V DDI OHV Turbo Diesel,6,Diesel,33,Automatic,Laramie,Pickup Truck,4,Diamond Black,Black,Four-wheel Drive
+640,Mazda,CX-90 PHEV,2024,51625,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4,Gasoline,5,8-Speed Automatic,Base,SUV,4,Deep Crystal Blue Mica,Black,All-wheel Drive
+641,Hyundai,Kona,2024,30829,16V GDI DOHC Turbo,4,Gasoline,15,8-Speed Automatic,Limited,SUV,4,Abyss Black Pearl,Black,Front-wheel Drive
+642,Dodge,Hornet,2024,44826,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,6-Speed Automatic,R/T Plus,SUV,4,HOT TAMALE,Black,All-wheel Drive
+643,Dodge,Hornet,2024,38122,16V GDI DOHC Turbo,4,Gasoline,18,9-Speed Automatic,GT,SUV,4,Blue Steel,Black,All-wheel Drive
+644,Jeep,Grand Cherokee L,2024,47451,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,3,Automatic,Altitude,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+645,Jeep,Wrangler 4xe,2024,58840,16V GDI DOHC Turbo Hybrid,4,Hybrid,4,8-Speed Automatic,Sahara,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+646,Dodge,Hornet,2024,32837,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4,Gasoline,10,Automatic,GT AWD,SUV,4,8 Ball,Black,All-wheel Drive
+647,Ford,Bronco Sport,2024,31390,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3,Gasoline,9,Automatic,Big Bend,SUV,4,Eruption Green Metallic,Bk,Four-wheel Drive
+648,Chrysler,Pacifica,2024,54403,24V MPFI DOHC,6,Gasoline,14,9-Speed Automatic,Touring-L,Passenger Van,4,Diamond Black,Black,All-wheel Drive
+649,Toyota,Tundra Hybrid,2024,71146,"MAX 3.4L V-6 port/direct injection, DOHC, variable valve",6,Hybrid,10,10-Speed Automatic,Platinum,Pickup Truck,4,Supersonic Red,Black,Rear-wheel Drive
+650,Jeep,Wagoneer,2024,84935,24V GDI DOHC Twin Turbo,6,Gasoline,1,8-Speed Automatic,Series II,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+651,Ford,F-150,2023,52495,EcoBoost,6,Gasoline,26,10-Speed Automatic,XLT,Pickup Truck,4,Oxford White,Black,Four-wheel Drive
+652,RAM,2500,2024,61481,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6,Diesel,15,6-Speed A/T,Tradesman 4x4 Crew Cab 8 Box,Pickup Truck,4,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive
+653,Mazda,CX-90 PHEV,2024,51700,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4,Gasoline,5,8-Speed Automatic,Base,SUV,4,Deep Crystal Blue Mica,Black,All-wheel Drive
+654,Chevrolet,Silverado 1500,2024,42947,16V GDI DOHC Turbo,4,Gasoline,5,8-Speed Automatic,Custom,Pickup Truck,4,Red,Black,Rear-wheel Drive
+655,Dodge,Hornet,2024,34329,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4,Gasoline,6,Automatic,GT AWD,SUV,4,Q Ball,Black,All-wheel Drive
+656,RAM,3500,2024,62154,16V MPFI OHV,8,Gasoline,197,8-Speed Automatic,Tradesman,Pickup Truck,2,Bright White Clearcoat,Diesel Gray / Black,Four-wheel Drive
+657,Dodge,Charger,2023,35913,24V MPFI DOHC,6,Gasoline,15,8-Speed Automatic,SXT,Sedan,4,Blue,Black,Rear-wheel Drive
+658,Audi,A3,2024,39375,16V GDI DOHC Turbo,4,Gasoline,76,7-Speed Automatic with Auto-Shift,Premium,Sedan,4,Florett Silver Metallic,Black,Front-wheel Drive
+659,Jeep,Wrangler 4xe,2024,65295,16V GDI DOHC Turbo Hybrid,4,Hybrid,26,8-Speed Automatic,Rubicon,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+660,Jeep,Wrangler 4xe,2024,64930,16V GDI DOHC Turbo Hybrid,4,Hybrid,12,8-Speed Automatic,Rubicon,SUV,4,Black Clearcoat,Black,Four-wheel Drive
+662,Mazda,CX-90 PHEV,2024,54949,DOHC 16V LEV3-SULEV30,4,PHEV Hybrid Fuel,3,Automatic,Premium,SUV,4,Machine,Black,All-wheel Drive
+663,Dodge,Hornet,2024,47142,16V GDI DOHC Turbo Hybrid,4,Hybrid,0,6-Speed Automatic,R/T Plus,SUV,4,Gray,Black,All-wheel Drive
+664,Hyundai,Santa Cruz,2024,41955,16V PDI DOHC Turbo,4,Gasoline,1,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4,Atlas,Black,All-wheel Drive
+665,Ford,Escape,2024,36860,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3,Gasoline,8,8-Speed A/T,Active,SUV,4,Vapor Blue Metallic,Ebony,All-wheel Drive
+666,RAM,3500,2024,76300,24V DDI OHV Turbo Diesel,6,Diesel,6,6-Speed Automatic,Big Horn,Pickup Truck,4,Diamond Black,Black,Four-wheel Drive
+667,RAM,ProMaster 3500,2024,68095,24V MPFI DOHC,6,Gasoline,188,9-Speed Automatic,Base,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+668,Ford,F-150,2024,45605,24V PDI DOHC Twin Turbo,6,Gasoline,8,Automatic,STX,Pickup Truck,4,Oxford White,Black,Four-wheel Drive
+669,Nissan,Kicks,2024,24305,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4,Gasoline,15,CVT,S,SUV,4,Gun Metallic,Charcoal,Front-wheel Drive
+670,Ford,Explorer,2024,46870,16V GDI DOHC Turbo,4,Gasoline,2500,10-Speed Automatic,XLT,SUV,4,Star White,Sandstone,Rear-wheel Drive
+671,Hyundai,Kona,2024,33840,16V GDI DOHC Turbo,4,Gasoline,8,8-Speed Automatic,Limited,SUV,4,Orange Pearl,Black,All-wheel Drive
+672,Chevrolet,Silverado 1500,2024,50058,16V GDI OHV,8,Gasoline,2,Automatic,LT,Pickup Truck,4,Radiant Red,Jet Black,Four-wheel Drive
+674,Hyundai,Sonata Hybrid,2024,33005,16V GDI DOHC Hybrid,4,Hybrid,13,6-Speed Automatic,SEL,Sedan,4,White,Black,Front-wheel Drive
+676,Mercedes-Benz,Sprinter 3500,2024,62295,"diesel direct injection, DOHC, intercooled turbo, diesel,",4,Diesel,8,Automatic,High Roof,Cargo Van,3,Iridium Silver,Black,Rear-wheel Drive
+677,GMC,Sierra 2500,2024,90220,32V DDI OHV Turbo Diesel,8,Diesel,0,10-Speed Automatic,Denali,Pickup Truck,4,Onyx Black,Jet Black,Four-wheel Drive
+679,Jeep,Compass,2024,33696,16V GDI DOHC Turbo,4,Gasoline,6,8-Speed Automatic,Limited,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+680,Jeep,Grand Cherokee L,2024,54641,24V MPFI DOHC,6,Gasoline,23,8-Speed Automatic,Limited,SUV,4,Diamond Black,Beige / Black,Rear-wheel Drive
+682,Hyundai,Tucson,2024,32750,16V PDI DOHC,4,Gasoline,3425,8-Speed Automatic,SEL,SUV,4,White Pearl,Gray,Front-wheel Drive
+684,Mazda,CX-90 PHEV,2024,50595,16V GDI DOHC Hybrid,4,Hybrid,1,8-Speed Automatic,Preferred,SUV,4,Rhodium White Metallic,Black,All-wheel Drive
+685,Ford,Explorer,2025,53915,"<dt>VIN</dt>
+     1FMUK7HH1SGA05728",4,Gasoline,8,10-Speed Automatic,Platinum,SUV,4,Star White Metallic Tri-Coat,Mojave Dusk/Onyx,Rear-wheel Drive
+686,Jeep,Wagoneer,2024,77473,24V GDI DOHC Twin Turbo,6,Gasoline,14,8-Speed Automatic,Base,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+688,Hyundai,Elantra HEV,2024,30870,16V GDI DOHC Hybrid,4,Hybrid,9,Automatic,Limited,Sedan,4,White,Black,Front-wheel Drive
+689,Buick,Enclave,2024,56872,24V GDI DOHC,6,Gasoline,0,9-Speed Automatic,Premium,SUV,4,Ebony Twilight Metallic,Dark Galvanized,All-wheel Drive
+690,Jeep,Compass,2024,34730,16V GDI DOHC Turbo,4,Gasoline,0,8-Speed Automatic,Latitude,SUV,4,Metallic,Black,Four-wheel Drive
+691,Chrysler,Pacifica,2024,55183,24V MPFI DOHC,6,Gasoline,13,9-Speed Automatic,Limited,Passenger Van,4,Bright White Clearcoat,Black,All-wheel Drive
+692,Hyundai,Tucson,2024,32625,16V PDI DOHC,4,Gasoline,2077,8-Speed Automatic,SEL,SUV,4,White Pearl,Gray,Front-wheel Drive
+693,Nissan,Versa,2024,20849,16V MPFI DOHC,4,Gasoline,6,Automatic CVT,S,Sedan,4,Cloud White,Charcoal,Front-wheel Drive
+694,Audi,A5 Sportback,2024,52405,16V GDI DOHC Turbo,4,Gasoline,10,7-Speed Automatic with Auto-Shift,S line Premium,Hatchback,4,Glacier White Metallic,Black,All-wheel Drive
+695,RAM,3500,2024,67159,24V DDI OHV Turbo Diesel,6,Diesel,21,6-Speed Automatic,Big Horn,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+696,Ford,Edge,2024,40260,16V GDI DOHC Turbo,4,Gasoline,3,8-Speed Automatic,SE,SUV,4,Carbonized Gray Metallic,Ebony,All-wheel Drive
+697,Mercedes-Benz,GLS 450,2024,95230,24V GDI DOHC Turbo,6,Gasoline,8,9-Speed Automatic,4MATIC,SUV,4,Polar White,Macchiato Beige,All-wheel Drive
+698,Hyundai,Tucson Hybrid,2024,35835,16V GDI DOHC Turbo Hybrid,4,Hybrid,10,6-Speed Automatic,SEL Convenience,SUV,4,Black Pearl,Black,All-wheel Drive
+699,Hyundai,Tucson Hybrid,2024,35775,16V GDI DOHC Turbo Hybrid,4,Hybrid,10,6-Speed Automatic,SEL Convenience,SUV,4,Amazon Gray,Gray,All-wheel Drive
+700,RAM,3500,2024,72600,24V DDI OHV Turbo Diesel,6,Diesel,6,6-Speed Automatic,Big Horn,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+701,Chevrolet,Silverado 1500,2024,47410,16V GDI OHV,8,Gasoline,5,10-Speed Automatic,WT,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive
+702,Kia,Niro,2024,30935,16V GDI DOHC Hybrid,4,Hybrid,11,6-Speed Automatic,EX,SUV,4,Snow White Pearl,Charcoal,Front-wheel Drive
+703,Jeep,Compass,2024,27087,16V GDI DOHC Turbo,4,Gasoline,9,8-Speed Automatic,Sport,SUV,4,Diamond Black,Black,Four-wheel Drive
+705,RAM,3500,2024,78895,"<dt>VIN</dt>
+     3C63R3HLXRG198198",6,Diesel,7,Aisin 6-Speed Automatic,Big Horn,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+707,Nissan,Sentra,2024,21637,"gasoline direct injection, DOHC, variable valve control,",4,Gasoline,4,Automatic,SV,Sedan,4,Gun Metallic,Charcoal,Front-wheel Drive
+709,Jeep,Grand Cherokee L,2024,50923,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,4,Automatic,Limited,SUV,4,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive
+710,Nissan,Versa,2024,21889,16V MPFI DOHC,4,Gasoline,6,Automatic CVT,1.6 SR,Sedan,4,Electric Blue Metallic,Gray,Front-wheel Drive
+711,Hyundai,Kona,2024,29182,16V MPFI DOHC,4,Gasoline,0,Automatic CVT,SEL,SUV,4,Cyber Gray Metallic,Black,Front-wheel Drive
+712,Nissan,Kicks,2024,21123,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4,Gasoline,6,CVT with Xtronic,SR,SUV,4,Electric Blue Metallic,Charcoal,Front-wheel Drive
+713,RAM,3500,2024,63518,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6,Diesel,24,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black Interior Color,Four-wheel Drive
+714,RAM,3500,2024,79934,24V DDI OHV Turbo Diesel,6,Diesel,22,Automatic,Laramie,Pickup Truck,4,Pearl White,Black,Four-wheel Drive
+715,Dodge,Durango,2023,47340,16V MPFI OHV,8,Gasoline,22,8-Speed Automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+716,Dodge,Durango,2023,47785,16V MPFI OHV,8,Gasoline,32,8-Speed Automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+717,Dodge,Charger,2023,65075,16V MPFI OHV,8,Gasoline,18,8-Speed Automatic,Scat Pack,Sedan,4,Blue,Black,Rear-wheel Drive
+718,Jeep,Grand Cherokee L,2024,46243,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,175,Automatic,Altitude,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+719,Dodge,Hornet,2024,42876,16V GDI DOHC Turbo Hybrid,4,Hybrid,147,6-Speed Automatic,R/T,SUV,4,8 BALL,Black,All-wheel Drive
+720,GMC,Sierra 3500,2024,102287,32V DDI OHV Turbo Diesel,8,Diesel,4,10-Speed Automatic,Denali,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive
+721,Jeep,Grand Cherokee L,2024,55020,OHV,6,Gasoline,5,8-Speed Automatic,Limited,SUV,4,Metallic,Global Black,Four-wheel Drive
+722,Jeep,Grand Cherokee,2024,40344,OHV,6,Gasoline,6,8-Speed Automatic,Laredo,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+723,Hyundai,Kona,2024,33491,16V GDI DOHC Turbo,4,Gasoline,12,8-Speed Automatic,N Line,SUV,4,Abyss Black Pearl,Black,All-wheel Drive
+724,Hyundai,Tucson Hybrid,2024,40754,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4,Hybrid,12,Automatic,Limited,SUV,4,Black Pearl,Black,All-wheel Drive
+727,RAM,3500,2024,83640,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6,Diesel,6,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4,Red,Black,Four-wheel Drive
+729,Toyota,RAV4 Prime,2024,50209,16V PDI DOHC Hybrid,4,Hybrid,0,Automatic CVT,XSE,SUV,4,Silver Sky Metallic,Black,All-wheel Drive
+730,RAM,2500,2024,69720,16V MPFI OHV,8,Gasoline,0,8-Speed Automatic,Big Horn,Pickup Truck,4,Diamond Black,Black,Four-wheel Drive
+731,Chevrolet,Silverado 1500,2024,88478,16V GDI OHV,8,Gasoline,2,Automatic,RST,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive
+732,Hyundai,Kona,2024,35389,16V GDI DOHC Turbo,4,Gasoline,1,8-Speed Automatic,Limited,SUV,4,Cyber Gray Metallic,Gray,All-wheel Drive
+733,Hyundai,Tucson Hybrid,2024,36600,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4,Hybrid,12,Automatic,N Line,SUV,4,Black Pearl,Black w/Red Accents,All-wheel Drive
+734,Jeep,Grand Wagoneer,2023,110150,24V GDI DOHC Twin Turbo,6,Gasoline,650,8-Speed Automatic,Series II,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+735,Jeep,Grand Cherokee L,2024,67105,"ar 3.6L V-6 DOHC, VVT variable valve control, regular unl",6,Gasoline,3,Automatic,Overland,SUV,4,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive
+736,Hyundai,Tucson Hybrid,2024,36600,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4,Hybrid,10,Automatic,N Line,SUV,4,Titan Gray,Black w/Red Accents,All-wheel Drive
+738,Mazda,CX-90 PHEV,2024,50955,DOHC 16V LEV3-SULEV30,4,PHEV Hybrid Fuel,0,Automatic,Preferred,SUV,4,Machine,Black,All-wheel Drive
+739,Hyundai,Santa Cruz,2024,40434,16V PDI DOHC Turbo,4,Gasoline,1,8-Speed Automatic with Auto-Shift,2.5T NIGHT,Pickup Truck,4,Hampton Gray,Black,All-wheel Drive
+740,Kia,Sportage,2024,30740,16V PDI DOHC,4,Gasoline,1,8-Speed Automatic,EX,SUV,4,Black,Black,Front-wheel Drive
+744,Chevrolet,Silverado 1500,2024,54190,16V GDI OHV,8,Gasoline,5,10-Speed Automatic,Custom Trail Boss,Pickup Truck,4,Dark Ash Metallic,Black,Four-wheel Drive
+745,GMC,Sierra 2500,2024,47763,16V GDI OHV,8,Gasoline,0,10-Speed Automatic,Pro,Pickup Truck,2,Summit White,Jet Black,Rear-wheel Drive
+746,RAM,3500,2024,68600,24V DDI OHV Turbo Diesel,6,Diesel,0,6-Speed Automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black / Diesel Gray,Four-wheel Drive
+748,Mercedes-Benz,GLE 450,2024,74290,24V GDI DOHC Turbo,6,Gasoline,6,9-Speed Automatic,4MATIC,SUV,4,Polar White,Black,All-wheel Drive
+749,Jeep,Compass,2024,33668,16V GDI DOHC Turbo,4,Gasoline,8,8-Speed Automatic,Latitude Lux,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+750,Dodge,Durango,2023,47785,16V MPFI OHV,8,Gasoline,32,8-Speed Automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+751,Jeep,Wagoneer,2024,89595,24V GDI DOHC Twin Turbo,6,Gasoline,1,8-Speed Automatic,Series III,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+753,Dodge,Hornet,2024,43524,"4 gasoline direct injection, DOHC, Multiair variable valv",4,Gasoline,0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Eawd,SUV,4,8 Ball,Black,All-wheel Drive
+754,Ford,Escape,2024,33071,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3,Gasoline,4,8-Speed Automatic,Active,SUV,4,Oxford White,Space Gray,All-wheel Drive
+755,Hyundai,Santa Cruz,2024,30490,16V PDI DOHC,4,Gasoline,1,8-Speed Automatic,2.5L SE,Pickup Truck,4,Atlas,Gray,All-wheel Drive
+756,RAM,ProMaster 3500,2023,61006,24V MPFI DOHC,6,Gasoline,5,9-Speed Automatic,High Roof,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+757,Hyundai,Santa Cruz,2024,43684,16V PDI DOHC Turbo,4,Gasoline,1,8-Speed Automatic with Auto-Shift,2.5T Limited,Pickup Truck,4,Phantom Black,Black,All-wheel Drive
+758,Chrysler,Voyager,2024,38954,24V MPFI DOHC,6,Gasoline,8,9-Speed Automatic,LX,Passenger Van,4,Bright White Clearcoat,Black,Front-wheel Drive
+760,Ford,Transit Connect,2023,38036,"gasoline direct injection, DOHC, iVCT variable valve cont",4,Gasoline,4,8-Speed Automatic,XLT,Cargo Van,4,Frozen White,Ebony,Front-wheel Drive
+761,Toyota,Tundra Hybrid,2024,60573,"MAX 3.4L V-6 port/direct injection, DOHC, variable valve",6,Hybrid,1,10-Speed Automatic,Limited,Pickup Truck,4,Magnetic Gray Metallic,Boulder,Four-wheel Drive
+762,RAM,2500,2024,59620,16V MPFI OHV,8,Gasoline,0,Automatic,Tradesman,Pickup Truck,4,Diamond Black,Black,Four-wheel Drive
+763,Jeep,Compass,2024,28860,16V GDI DOHC Turbo,4,Gasoline,7,8-Speed Automatic,Latitude,SUV,4,Silver Zynith,Black,Four-wheel Drive
+766,Jeep,Gladiator,2023,54210,24V MPFI DOHC,6,Gasoline,0,8-Speed Automatic,Rubicon,Pickup Truck,4,Sarge Green Clearcoat,Black,Four-wheel Drive
+768,Hyundai,Kona,2024,29111,16V MPFI DOHC,4,Gasoline,11,Automatic CVT,SEL,SUV,4,Mirage,Gray,Front-wheel Drive
+769,GMC,Sierra 2500,2024,96860,32V DDI OHV Turbo Diesel,8,Diesel,0,10-Speed Automatic,Denali Ultimate,Pickup Truck,4,White Frost Tri-Coat,Alpine Umber,Four-wheel Drive
+770,Kia,Sportage,2024,34635,16V PDI DOHC,4,Gasoline,1,8-Speed Automatic,SX,SUV,4,White,Black,Front-wheel Drive
+772,Jeep,Wagoneer,2024,79487,24V GDI DOHC Twin Turbo,6,Gasoline,18,8-Speed Automatic,Series II,SUV,4,Riverrock Green,Black,Four-wheel Drive
+773,Volkswagen,Jetta,2024,23160,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,13,8-Speed Automatic with Tiptronic,1.4T S,Sedan,4,Pure White,Titan Black,Front-wheel Drive
+774,Jeep,Wagoneer L,2024,74366,24V GDI DOHC Twin Turbo,6,Gasoline,4,8-Speed Automatic,Base,SUV,4,Diamond Black,Global Black,Four-wheel Drive
+775,Hyundai,Tucson Hybrid,2024,40979,16V GDI DOHC Turbo Hybrid,4,Hybrid,12,6-Speed Automatic,Limited,SUV,4,Amazon Gray,Black,All-wheel Drive
+776,Ford,Edge,2024,39025,"t 2L I-4 gasoline direct injection, DOHC, variable valve",4,Gasoline,5,Automatic,SE,SUV,4,Carbonized Gray Metallic,Ebony,All-wheel Drive
+778,Jeep,Wagoneer L,2024,81160,24V GDI DOHC Twin Turbo,6,Gasoline,4,8-Speed Automatic,Series II,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+780,Nissan,Versa,2024,21195,"4 DOHC, variable valve control, regular unleaded, engine",4,Gasoline,0,CVT,1.6 SV,Sedan,4,Aspen White Tricoat,Graphite,Front-wheel Drive
+781,Jeep,Grand Cherokee 4xe,2024,63440,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,8-Speed Automatic,Base,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+782,Hyundai,Kona,2024,33969,16V GDI DOHC Turbo,4,Gasoline,0,8-Speed Automatic,Limited,SUV,4,Red Metallic,Gray,Front-wheel Drive
+783,Ford,Edge,2024,38598,"t 2L I-4 gasoline direct injection, DOHC, variable valve",4,Gasoline,10,Automatic,SEL,SUV,4,Carbonized Gray Metallic,Dune,All-wheel Drive
+784,GMC,Sierra 1500,2024,84405,16V GDI OHV,8,Gasoline,12,10-Speed Automatic,Denali Ultimate,Pickup Truck,4,White Frost Tri-Coat,Alpine Umber,Four-wheel Drive
+786,Chevrolet,Silverado 1500,2024,63145,24V DDI DOHC Turbo Diesel,6,Diesel,5,10-Speed Automatic,LT Trail Boss,Pickup Truck,4,Slate Gray Metallic,Black,Four-wheel Drive
+787,GMC,Terrain,2024,34940,16V GDI DOHC Turbo,4,Gasoline,0,9-Speed Automatic,AT4,SUV,4,Ebony Twilight Metallic,Jet Black,All-wheel Drive
+788,Dodge,Hornet,2024,37498,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4,Gasoline,12,Automatic,GT AWD,SUV,4,8 Ball,Black,All-wheel Drive
+789,RAM,3500,2024,58950,24V DDI OHV Turbo Diesel,6,Diesel,12,6-Speed Automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+791,Dodge,Charger,2023,41890,24V MPFI DOHC,6,Gasoline,18,8-Speed Automatic,SXT,Sedan,4,Silver,Black,All-wheel Drive
+792,Jeep,Compass,2024,38000,"gasoline direct injection, DOHC, variable valve control,",4,Gasoline,10,Automatic,Trailhawk,SUV,4,Bright White Clearcoat,Ruby Red/Black,Four-wheel Drive
+793,Ford,Transit-350,2023,57000,24V GDI DOHC Twin Turbo,6,Gasoline,5581,10-Speed Automatic,Base,Cargo Van,3,White,Gray,Rear-wheel Drive
+794,Jeep,Grand Cherokee L,2024,48201,OHV,6,Gasoline,10,8-Speed Automatic,Laredo,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+795,Audi,Q5 e,2024,73360,"gasoline direct injection, DOHC, variable valve control,",4,Gasoline,12,7-Speed Automatic S tronic,55 Premium Plus,SUV,4,Glacier White,Black,All-wheel Drive
+796,Dodge,Durango,2023,47340,16V MPFI OHV,8,Gasoline,33,8-Speed Automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+797,RAM,3500,2024,64111,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6,Diesel,6,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4,Black,Black Interior Color,Four-wheel Drive
+798,Kia,Sorento,2024,33590,16V PDI DOHC,4,Gasoline,12,8-Speed Automatic,LX,SUV,4,Ebony Black,Black,Front-wheel Drive
+799,INFINITI,QX50,2024,46855,"o 2L I-4 port/direct injection, DOHC, variable valve cont",4,Gasoline,11,Variable,LUXE,SUV,4,Radiant White,Pebble Gray,Front-wheel Drive
+800,Jeep,Grand Cherokee L,2024,58779,OHV,6,Gasoline,10,8-Speed Automatic,Limited,SUV,4,Diamond Black,Global Black,Four-wheel Drive
+802,Ford,Edge,2024,45995,"t 2L I-4 gasoline direct injection, DOHC, variable valve",4,Gasoline,4723,8-Speed Automatic,Titanium,SUV,4,Agate Black Metallic,Ebony,All-wheel Drive
+804,Nissan,Pathfinder,2024,42155,"6 gasoline direct injection, DOHC, variable valve control",6,Gasoline,6,Automatic,SL 4WD,SUV,4,Deep Ocean Blue Pearl,Charcoal,Four-wheel Drive
+808,Dodge,Hornet,2024,42436,16V GDI DOHC Turbo,4,Gasoline,18,9-Speed Automatic,GT Plus,SUV,4,Gray,Black,All-wheel Drive
+810,Jeep,Grand Cherokee L,2024,56015,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,8,Automatic,Limited,SUV,4,Baltic Gray Metallic Clearcoat,Wicker Beige/Global Black,Four-wheel Drive
+814,Honda,HR-V,2024,25950,"gasoline direct injection, DOHC, i-VTEC variable valve co",4,Gasoline,14,Automatic,LX,SUV,4,Modern Steel Metallic,Nh-797m/Black,Front-wheel Drive
+815,Honda,Passport,2024,46350,24V GDI SOHC,6,Gasoline,0,9-Speed Automatic,TrailSport,SUV,4,Sky,Black,All-wheel Drive
+816,Honda,HR-V,2024,27450,"gasoline direct injection, DOHC, i-VTEC variable valve co",4,Gasoline,5,Automatic,LX,SUV,4,Deep Ocean Pearl,Nh-731p/Black,All-wheel Drive
+817,Kia,Sportage,2024,33375,16V PDI DOHC,4,Gasoline,148,8-Speed Automatic,EX,SUV,4,Ebony Black,Gray,All-wheel Drive
+818,Kia,Sportage,2024,39935,16V PDI DOHC,4,Gasoline,12,8-Speed Automatic,X-Pro Prestige,SUV,4,Glacier White Pearl,Black,All-wheel Drive
+820,Jeep,Grand Cherokee 4xe,2024,56119,16V GDI DOHC Turbo Hybrid,4,Hybrid,20,8-Speed Automatic,Base,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+821,Dodge,Hornet,2024,36810,16V GDI DOHC Turbo,4,Gasoline,15,9-Speed Automatic,GT,SUV,4,Gray,Black,All-wheel Drive
+822,Dodge,Hornet,2024,35585,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4,Gasoline,0,Automatic,GT AWD,SUV,4,Blue Steele,Black,All-wheel Drive
+823,Hyundai,Santa Cruz,2024,40375,16V PDI DOHC Turbo,4,Gasoline,1,8-Speed Automatic with Auto-Shift,2.5T NIGHT,Pickup Truck,4,Hampton Gray,Black,All-wheel Drive
+825,Hyundai,Tucson Hybrid,2024,41720,16V GDI DOHC Turbo Hybrid,4,Hybrid,10,6-Speed Automatic,Limited,SUV,4,Amazon Gray,Gray,All-wheel Drive
+826,Hyundai,Tucson Hybrid,2024,41720,16V GDI DOHC Turbo Hybrid,4,Hybrid,10,6-Speed Automatic,Limited,SUV,4,Deep Sea,Gray,All-wheel Drive
+827,Jeep,Grand Cherokee 4xe,2024,62255,16V GDI DOHC Turbo Hybrid,4,Hybrid,26,8-Speed Automatic,Base,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+828,Audi,A5 Sportback,2024,57835,16V GDI DOHC Turbo,4,Gasoline,12,7-Speed Automatic with Auto-Shift,S line Premium Plus,Hatchback,4,Mythos Black Metallic,Okapi Brown,All-wheel Drive
+829,Jeep,Grand Wagoneer,2024,108537,24V GDI DOHC Twin Turbo,6,Gasoline,4501,8-Speed Automatic,Series III,SUV,4,Bright White Clearcoat,Tupelo,Four-wheel Drive
+830,RAM,3500,2024,63609,24V DDI OHV Turbo Diesel,6,Diesel,13,Automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+831,Ford,Transit-250,2024,64025,"6 port/direct injection, DOHC, variable valve control, re",6,Gasoline,0,Automatic,Base,Cargo Van,3,Oxford White,Dk Palazzo Gry Clth Front,All-wheel Drive
+832,RAM,3500,2024,86420,24V DDI OHV Turbo Diesel,6,Diesel,10,Automatic,Laramie,Pickup Truck,4,Pearl White,Black,Four-wheel Drive
+833,RAM,2500,2024,77525,16V MPFI OHV,8,Gasoline,0,8-Speed Automatic,Big Horn,Pickup Truck,4,Granite Crystal Clearcoat Metallic,Black,Four-wheel Drive
+834,Dodge,Hornet,2024,36195,16V GDI DOHC Turbo,4,Gasoline,5,9-Speed Automatic,GT,SUV,4,Blue Steel,Black,All-wheel Drive
+835,Chevrolet,Silverado 1500,2024,43475,16V GDI DOHC Turbo,4,Gasoline,2,Automatic,WT,Pickup Truck,4,Black,Jet Black,Four-wheel Drive
+836,Kia,Sportage,2024,35040,16V PDI DOHC,4,Gasoline,1,8-Speed Automatic,X-Line,SUV,4,Black,Black,All-wheel Drive
+837,Jeep,Wagoneer,2024,64434,rbo Regular Unleaded I-6 3.0 L/183,6,Gasoline,20,Automatic,Base,SUV,4,Diamond Black Crystal Pearlcoat,Black,Four-wheel Drive
+838,RAM,3500,2024,67422,24V DDI OHV Turbo Diesel,6,Diesel,27,6-Speed Automatic,Big Horn,Pickup Truck,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+840,Jeep,Grand Cherokee 4xe,2024,61179,16V GDI DOHC Turbo Hybrid,4,Hybrid,26,8-Speed Automatic,Base,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+841,Jeep,Grand Cherokee 4xe,2023,67650,16V GDI DOHC Turbo Hybrid,4,Hybrid,555,8-Speed Automatic,Trailhawk,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+842,Mercedes-Benz,Sprinter 2500,2024,61276,16V DDI DOHC Turbo Diesel,4,Diesel,10,9-Speed Automatic,144 WB Standard Roof Crew,Cargo Van,3,Arctic White,Black,Rear-wheel Drive
+843,BMW,X7,2024,94895,24V GDI DOHC Turbo,6,Gasoline,1946,8-Speed Automatic,xDrive40i,SUV,4,Tanzanite Blue II Metallic,Silverstone,All-wheel Drive
+845,Ford,Expedition,2024,70115,24V PDI DOHC Twin Turbo,6,Gasoline,8,10-Speed Automatic,XLT,SUV,4,Black,Black Onyx,Four-wheel Drive
+846,Jeep,Wagoneer L,2024,77522,24V GDI DOHC Twin Turbo,6,Gasoline,10,8-Speed Automatic,Series II,SUV,4,Diamond Black,Black,Four-wheel Drive
+848,Nissan,Kicks,2024,24105,16V MPFI DOHC,4,Gasoline,12,Automatic CVT,SR,SUV,4,Electric Blue Metallic,Charcoal,Front-wheel Drive
+849,Buick,Envista,2024,28000,12V GDI DOHC Turbo,3,Gasoline,5,6-Speed Automatic,Sport Touring,SUV,4,Sunrise Red Metallic,Ebony,Front-wheel Drive
+851,Jeep,Grand Cherokee 4xe,2024,60884,16V GDI DOHC Turbo Hybrid,4,Hybrid,2,8-Speed Automatic,Trailhawk,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+852,Dodge,Hornet,2024,40880,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4,Gasoline,24,Automatic,GT AWD,SUV,4,Acapulco Gold,Black,All-wheel Drive
+854,Ford,Bronco Sport,2024,35077,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3,Gasoline,14,Automatic,Free Wheeling,SUV,4,Shadow Black,Ebony,Four-wheel Drive
+855,Cadillac,XT5,2024,47290,"gasoline direct injection, DOHC, variable valve control,",4,Gasoline,3,Automatic,Luxury,SUV,4,Argent Silver Metallic,Jet Black,All-wheel Drive
+856,Jeep,Grand Cherokee,2024,44759,24V MPFI DOHC,6,Gasoline,6,8-Speed Automatic,Limited,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+860,Ford,Expedition,2024,86490,24V PDI DOHC Twin Turbo,6,Gasoline,6,10-Speed Automatic,King Ranch,SUV,4,Black,Java,Four-wheel Drive
+861,RAM,3500,2024,84701,oled Turbo Diesel I-6 6.7 L/408,6,Diesel,15,Automatic,Laramie,Pickup Truck,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+862,BMW,X7,2024,88695,24V GDI DOHC Turbo,6,Gasoline,9,8-Speed Automatic,xDrive40i,SUV,4,Sparkling,Black,All-wheel Drive
+864,Mercedes-Benz,Sprinter 2500,2024,69017,16V DDI DOHC Turbo Diesel,4,Diesel,10,9-Speed Automatic,144 WB Standard Roof Passenger,Passenger Van,3,Jet Black,Black,Rear-wheel Drive
+865,RAM,3500,2024,60925,24V DDI OHV Turbo Diesel,6,Diesel,10,Automatic,Tradesman,Pickup Truck,4,Delmonico Red Pearlcoat,Black,Four-wheel Drive
+867,Kia,Telluride,2024,51965,"II 3.8L V-6 gasoline direct injection, DOHC, D-CVVT varia",6,Gasoline,8,Automatic,SX X-Pro,SUV,4,Gray,Black,All-wheel Drive
+868,Jeep,Wagoneer L,2024,74366,24V GDI DOHC Twin Turbo,6,Gasoline,4,8-Speed Automatic,Base,SUV,4,Diamond Black,Global Black,Four-wheel Drive
+869,RAM,3500,2024,63670,oled Turbo Diesel I-6 6.7 L/408,6,Diesel,22,Automatic,Tradesman,Pickup Truck,4,Flame Red Clearcoat,Diesel Gray/Black,Four-wheel Drive
+870,Ford,Bronco Sport,2024,35010,12V PDI DOHC Turbo,3,Gasoline,10,8-Speed Automatic,Big Bend,SUV,4,Hot Pepper Red Metallic Tinted Clearcoat,Ebony,Four-wheel Drive
+871,Mazda,CX-90,2024,49900,24V GDI DOHC Turbo,6,Gasoline,0,8-Speed Automatic,3.3 Turbo Premium Plus,SUV,4,Machine Gray Metallic,Black,All-wheel Drive
+872,Mercedes-Benz,GLE 450,2024,75925,24V GDI DOHC Turbo,6,Gasoline,7,9-Speed Automatic,4MATIC,SUV,4,Polar White,Black,All-wheel Drive
+873,RAM,3500,2024,93303,oled Turbo Diesel I-6 6.7 L/408,6,Diesel,10,Automatic,Laramie,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive
+874,Mazda,CX-90 PHEV,2024,58049,DOHC 16V LEV3-SULEV30,4,PHEV Hybrid Fuel,4,Automatic,Premium Plus,SUV,4,Platinum,Black,All-wheel Drive
+875,Jeep,Grand Cherokee L,2024,49260,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,10,Automatic,Altitude,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+878,Kia,Sportage,2024,38040,16V PDI DOHC,4,Gasoline,1,8-Speed Automatic,SX-Prestige,SUV,4,Black,Black,All-wheel Drive
+880,Hyundai,Kona,2024,32491,16V GDI DOHC Turbo,4,Gasoline,10,8-Speed Automatic,Limited,SUV,4,Abyss Black Pearl,Black,Front-wheel Drive
+881,Mercedes-Benz,GLA 250,2024,51725,16V GDI DOHC Turbo,4,Gasoline,7,8-Speed Automatic with Auto-Shift,Base 4MATIC,SUV,4,Midnight Black,Black,All-wheel Drive
+882,Chevrolet,Silverado 1500,2024,58720,24V DDI DOHC Turbo Diesel,6,Diesel,0,Automatic,LT,Pickup Truck,4,Sterling Gray Metallic,Jet Black,Four-wheel Drive
+887,Dodge,Durango,2023,47340,16V MPFI OHV,8,Gasoline,14,8-Speed Automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+889,Jeep,Grand Cherokee 4xe,2024,49285,"gasoline direct injection, DOHC, intercooled turbo, premi",4,Gasoline,15,8-Speed Automatic,Base,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+890,Dodge,Hornet,2024,49895,"4 gasoline direct injection, DOHC, Multiair variable valv",4,Gasoline,0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Plus Eawd,SUV,4,Gray Cray,Black,All-wheel Drive
+891,Jeep,Compass,2024,28860,16V GDI DOHC Turbo,4,Gasoline,11,8-Speed Automatic,Latitude,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+892,Jeep,Grand Cherokee 4xe,2024,63440,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,8-Speed Automatic,Base,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+894,Dodge,Durango,2024,57486,16V MPFI OHV,8,Gasoline,10,8-Speed Automatic,R/T,SUV,4,Destroyer Gray Clearcoat,Black,All-wheel Drive
+895,Dodge,Hornet,2024,40085,16V GDI DOHC Turbo Hybrid,4,Hybrid,16,6-Speed Automatic,R/T,SUV,4,Blue,Black,All-wheel Drive
+896,Volvo,S60 Recharge Plug-In Hybrid,2024,57545,16V GDI DOHC Turbo Hybrid,4,Hybrid,3,8-Speed Automatic,T8 Plus Dark Theme,Sedan,4,Onyx Black Metallic,Charcoal,All-wheel Drive
+897,Ford,Transit-350,2024,74391,"6 port/direct injection, DOHC, variable valve control, re",6,Gasoline,85,Automatic,Base,Cargo Van,3,Oxford White,gray,All-wheel Drive
+899,RAM,3500,2024,64965,oled Turbo Diesel I-6 6.7 L/408,6,Diesel,16,Automatic,Tradesman,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Diesel Gray/Black,Four-wheel Drive
+901,RAM,3500,2024,77085,oled Turbo Diesel I-6 6.7 L/408,6,Diesel,16,Automatic,Laramie,Pickup Truck,4,Pearl White,Black,Four-wheel Drive
+902,Mazda,CX-90 PHEV,2024,58825,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4,Gasoline,5,8-Speed Automatic,Base,SUV,4,Deep Crystal Blue Mica,White,All-wheel Drive
+903,Nissan,Kicks,2024,26335,16V MPFI DOHC,4,Gasoline,12,Automatic CVT,SR,SUV,4,Boulder Gray Metallic,Charcoal,Front-wheel Drive
+904,Dodge,Hornet,2024,49720,"4 gasoline direct injection, DOHC, Multiair variable valv",4,Gasoline,0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Plus Eawd,SUV,4,Acapulco Gold,Black,All-wheel Drive
+905,Chevrolet,Silverado 1500,2024,50565,16V GDI DOHC Turbo,4,Gasoline,0,8-Speed Automatic,Custom,Pickup Truck,4,Black,Jet Black,Four-wheel Drive
+907,Chevrolet,Equinox,2024,38717,16V GDI DOHC Turbo,4,Gasoline,11,6-Speed Automatic,RS,SUV,4,Radiant Red,Jet Black,All-wheel Drive
+908,Cadillac,XT6,2024,50415,16V GDI DOHC Turbo,4,Gasoline,6,9-Speed Automatic,Luxury FWD,SUV,4,Crystal White Tri-Coat,Jet Black,Front-wheel Drive
+909,Ford,Transit-250,2024,50486,24V PDI DOHC Flexible Fuel,6,E85 Flex Fuel,24,10-Speed Automatic with Overdrive,148 WB Medium Roof Cargo,Cargo Van,3,Oxford White,Dark Palazzo,Rear-wheel Drive
+910,Volkswagen,Taos,2024,32406,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,11,8-speed automatic,1.5T SE,SUV,4,Deep Black Pearl,Black,Front-wheel Drive
+911,Kia,Sportage,2024,40250,16V PDI DOHC,4,Gasoline,1,8-Speed Automatic,X-Pro Prestige,SUV,4,Black,Black,All-wheel Drive
+912,Dodge,Durango,2023,47340,16V MPFI OHV,8,Gasoline,11,8-Speed Automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive
+913,Subaru,Impreza,2024,29068,16V GDI DOHC,4,Gasoline,5,Automatic CVT,Sport,Hatchback,4,Pure Red,Black,All-wheel Drive
+914,Mazda,CX-70,2025,54620,o,6,Gasoline,0,8-Speed Automatic,3.3 Turbo S Premium,SUV,4,41w,Red,All-wheel Drive
+915,Chrysler,Voyager,2024,38954,24V MPFI DOHC,6,Gasoline,5,9-Speed Automatic,LX,Passenger Van,4,Bright White Clearcoat,Black,Front-wheel Drive
+917,Nissan,Murano,2024,46510,24V MPFI DOHC,6,Gasoline,6,Automatic CVT,SL,SUV,4,Scarlet Ember,Graphite,All-wheel Drive
+918,Hyundai,Tucson Hybrid,2024,40933,16V GDI DOHC Turbo Hybrid,4,Hybrid,7,6-Speed Automatic,Limited,SUV,4,Black Pearl,Gray,All-wheel Drive
+919,BMW,X3,2024,49395,"gasoline direct injection, DOHC, variable valve control,",4,Gasoline,5,8-Speed Automatic Sport,sDrive30i,SUV,4,Jet Black,Cognac,Rear-wheel Drive
+920,Jeep,Compass,2024,28265,16V GDI DOHC Turbo,4,Gasoline,7,8-Speed Automatic,Latitude,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive
+921,RAM,2500,2024,53750,"4L V-8 VVT variable valve control, regular unleaded, engi",8,Gasoline,0,Automatic,Tradesman Regular Cab 4x4 8&#39; Box,Pickup Truck,2,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive
+923,Jeep,Wagoneer L,2024,88135,24V GDI DOHC Twin Turbo,6,Gasoline,21,8-Speed Automatic,Series II,SUV,4,Velvet Red Pearlcoat,Black,Four-wheel Drive
+924,Ford,Escape,2024,30798,12V PDI DOHC Turbo,3,Gasoline,8,Automatic,ST-Line,SUV,4,Agate Black Metallic,Red,Front-wheel Drive
+925,Volvo,C40 Recharge Pure Electric,2023,62240,c Motor,0,Electric,0,Automatic,Twin Ultimate,SUV,4,Gray,Charcoal,All-wheel Drive
+926,Jeep,Compass,2023,38300,"gasoline direct injection, DOHC, variable valve control,",4,Gasoline,24,Automatic,Trailhawk,SUV,4,Bright White Clearcoat,Ruby Red/Black,Four-wheel Drive
+927,Volkswagen,Taos,2024,25311,16V GDI DOHC Turbo,4,Gasoline,5,7-Speed DSGA? Automatic w/ 4MO,1.5T S,SUV,4,Pyrite Silver Metallic,Black,All-wheel Drive
+928,Jeep,Grand Cherokee L,2024,49201,OHV,6,Gasoline,10,8-Speed Automatic,Laredo,SUV,4,Metallic,Global Black,Four-wheel Drive
+929,Volkswagen,Taos,2024,29386,16V GDI DOHC Turbo,4,Gasoline,11,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4,Pure White,Black,All-wheel Drive
+930,Jeep,Wagoneer L,2023,72835,24V GDI DOHC Twin Turbo,6,Gasoline,20,8-Speed Automatic,Base,SUV,4,Diamond Black,Global Black,Four-wheel Drive
+931,Volkswagen,Taos,2024,28994,16V GDI DOHC Turbo,4,Gasoline,6,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4,Platinum Gray Metallic,Black,All-wheel Drive
+932,Dodge,Hornet,2024,49895,"4 gasoline direct injection, DOHC, Multiair variable valv",4,Gasoline,0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Plus Eawd,SUV,4,Hot Tamale,Black,All-wheel Drive
+933,Hyundai,Tucson Hybrid,2024,36280,16V GDI DOHC Turbo Hybrid,4,Hybrid,241,6-Speed Automatic,SEL Convenience,SUV,4,Shimmering Silver,Gray,All-wheel Drive
+934,Ford,Expedition,2024,80374,24V PDI DOHC Twin Turbo,6,Gasoline,13,10-Speed Automatic,Limited,SUV,4,Black,Black Onyx,Four-wheel Drive
+935,RAM,ProMaster 1500,2024,51380,24V MPFI DOHC,6,Gasoline,10,9-Speed Automatic,Low Roof,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+936,Dodge,Hornet,2024,52180,"4 gasoline direct injection, DOHC, Multiair variable valv",4,Gasoline,0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Plus Eawd,SUV,4,Blue Steele,Black,All-wheel Drive
+938,Volkswagen,Taos,2024,28998,16V GDI DOHC Turbo,4,Gasoline,11,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4,Platinum Gray Metallic,Black,All-wheel Drive
+939,Nissan,Kicks,2024,24979,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4,Gasoline,5,CVT with Xtronic,SV,SUV,4,Scarlet Ember Tintcoat/Super Black,Charcoal,Front-wheel Drive
+942,RAM,ProMaster 2500,2023,50245,"6 DOHC, variable valve control, regular unleaded, engine",6,Gasoline,0,Automatic,High Roof,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+945,Jeep,Grand Cherokee 4xe,2024,49082,"gasoline direct injection, DOHC, intercooled turbo, premi",4,Gasoline,51,8-Speed Automatic,Base,SUV,4,Bright White Clearcoat,Wicker Beige/Black,Four-wheel Drive
+946,Subaru,Impreza,2024,32098,16V GDI DOHC,4,Gasoline,5,Automatic CVT,RS,Hatchback,4,Crystal Black Silica,Black,All-wheel Drive
+947,Jeep,Grand Cherokee 4xe,2024,53791,16V GDI DOHC Turbo Hybrid,4,Hybrid,11,8-Speed Automatic,Base,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+948,Jeep,Grand Cherokee L,2024,49139,OHV,6,Gasoline,10,8-Speed Automatic,Laredo,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+949,Ford,Expedition,2024,72135,24V PDI DOHC Twin Turbo,6,Gasoline,7,10-Speed Automatic,XLT,SUV,4,Black,Black Onyx,Four-wheel Drive
+950,Honda,CR-V,2024,37965,16V GDI DOHC Turbo,4,Gasoline,0,Automatic CVT,EX-L,SUV,4,Still Night Pearl,Black,All-wheel Drive
+951,Kia,Soul,2024,21000,"DOHC, D-CVVT variable valve control, regular unleaded, en",4,Gasoline,5,Automatic,S,Hatchback,4,Midnight Sapphire,Black,Front-wheel Drive
+952,Hyundai,Tucson Hybrid,2024,37335,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4,Hybrid,1,6-Speed Automatic,SEL Convenience,SUV,4,Black Pearl,Black,All-wheel Drive
+953,Kia,Sportage,2024,33785,16V PDI DOHC,4,Gasoline,1,8-Speed Automatic,X-Line,SUV,4,Red,Black,All-wheel Drive
+954,Chrysler,300,2023,35994,24V MPFI DOHC,6,Gasoline,10,8-Speed Automatic,Touring L,Sedan,4,Gloss Black,Black,Rear-wheel Drive
+955,GMC,Sierra 2500,2024,48268,16V GDI OHV,8,Gasoline,3,10-Speed Automatic,Pro,Pickup Truck,2,Summit White,Jet Black,Rear-wheel Drive
+956,Dodge,Hornet,2024,45141,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,6-Speed Automatic,R/T Plus,SUV,4,Blue Steel,Black,All-wheel Drive
+957,Volkswagen,Taos,2024,28098,"4 gasoline direct injection, DOHC, variable valve control",4,Gasoline,66,7-Speed DSG Automatic with Tiptronic,1.5T S,SUV,4,Deep Black Pearl,Gray/Black,All-wheel Drive
+958,Nissan,Kicks,2024,24430,16V MPFI DOHC,4,Gasoline,12,Automatic CVT,SR,SUV,4,Electric Blue Metallic,Charcoal,Front-wheel Drive
+959,Nissan,Kicks,2024,24430,16V MPFI DOHC,4,Gasoline,12,Automatic CVT,SR,SUV,4,Super Black,Charcoal,Front-wheel Drive
+960,Nissan,Kicks,2024,25080,16V MPFI DOHC,4,Gasoline,12,Automatic CVT,SR,SUV,4,Aspen White / Super Black,Charcoal,Front-wheel Drive
+961,Mercedes-Benz,AMG C 43,2024,73960,16V PDI DOHC Turbo,4,Gasoline,5,9-Speed Automatic,Base 4MATIC,Sedan,4,Obsidian Black Metallic,Black,All-wheel Drive
+962,Jeep,Grand Cherokee L,2024,46659,OHV,6,Gasoline,10,8-Speed Automatic,Laredo,SUV,4,Diamond Black,Global Black,Four-wheel Drive
+964,Dodge,Durango,2023,47280,16V MPFI OHV,8,Gasoline,22,8-Speed Automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive
+965,RAM,3500,2024,80927,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6,Diesel,11,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4,White,Black,Four-wheel Drive
+966,Chevrolet,Equinox,2024,33977,16V GDI DOHC Turbo,4,Gasoline,6,6-Speed Automatic,1LT,SUV,4,Summit White,Jet Black,All-wheel Drive
+968,Ford,Maverick,2024,36550,16V GDI DOHC Turbo,4,Gasoline,4,8-Speed Automatic,XLT,Pickup Truck,4,Carbonized Gray Metallic,Black Onyx,All-wheel Drive
+969,Hyundai,Tucson Hybrid,2024,37805,16V GDI DOHC Turbo Hybrid,4,Hybrid,10,6-Speed Automatic,SEL Convenience,SUV,4,White Pearl,Gray,All-wheel Drive
+970,Jeep,Wagoneer,2024,74625,24V GDI DOHC Twin Turbo,6,Gasoline,10,8-Speed Automatic,Series II,SUV,4,Silver,Global Black,Four-wheel Drive
+972,Dodge,Hornet,2024,43613,16V GDI DOHC Turbo Hybrid,4,Hybrid,5,6-Speed Automatic,R/T Plus,SUV,4,Gray,Black,All-wheel Drive
+973,Jeep,Grand Cherokee L,2024,49836,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,7,Automatic,Altitude,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+974,Hyundai,Kona,2024,27555,16V MPFI DOHC,4,Gasoline,0,Automatic CVT,SE,SUV,4,Orange Pearl,Black,All-wheel Drive
+976,Ford,Edge,2024,40015,16V GDI DOHC Turbo,4,Gasoline,2,8-Speed Automatic,SE,SUV,4,Gray,Ebony,All-wheel Drive
+979,Ford,Bronco Sport,2024,35615,oBoost,3,Gasoline,0,8-Speed Automatic,Outer Banks,SUV,4,Cactus Gray,Navy Pier,Four-wheel Drive
+981,Nissan,Versa,2024,20842,16V MPFI DOHC,4,Gasoline,4,Automatic CVT,S,Sedan,4,Gun Metallic,Charcoal,Front-wheel Drive
+982,Ford,Explorer,2024,43685,16V GDI DOHC Turbo,4,Gasoline,8,10-Speed Automatic,XLT,SUV,4,Carbonized Gray Metallic,Ebony,Rear-wheel Drive
+983,Jeep,Wagoneer L,2024,66770,24V GDI DOHC Twin Turbo,6,Gasoline,20,8-Speed Automatic,Base,SUV,4,Silver Zynith,Global Black,Four-wheel Drive
+984,RAM,ProMaster 1500,2024,48822,24V MPFI DOHC,6,Gasoline,12,9-Speed Automatic,Low Roof,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive
+986,Jeep,Grand Cherokee 4xe,2024,67164,16V GDI DOHC Turbo Hybrid,4,Hybrid,29,8-Speed Automatic,Trailhawk,SUV,4,Metallic,Global Black,Four-wheel Drive
+988,Jeep,Grand Cherokee 4xe,2024,77314,16V GDI DOHC Turbo Hybrid,4,Hybrid,6,8-Speed Automatic,Overland,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+989,Jeep,Grand Cherokee 4xe,2024,70312,16V GDI DOHC Turbo Hybrid,4,Hybrid,24,8-Speed Automatic,Overland,SUV,4,Midnight Sky,Global Black,Four-wheel Drive
+990,Jeep,Compass,2024,36331,16V GDI DOHC Turbo,4,Gasoline,17,8-Speed Automatic,Latitude,SUV,4,Silver Zynith,Black,Four-wheel Drive
+991,Jeep,Grand Cherokee 4xe,2024,62343,16V GDI DOHC Turbo Hybrid,4,Hybrid,11,8-Speed Automatic,Base,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive
+992,RAM,3500,2024,67446,oled Turbo Diesel I-6 6.7 L/408,6,Diesel,296,Automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive
+993,Hyundai,Tucson Hybrid,2024,40835,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4,Hybrid,16,Automatic,Limited,SUV,4,Amazon Gray,Black,All-wheel Drive
+994,Jeep,Gladiator,2024,54620,24V MPFI DOHC,6,Gasoline,5,Automatic,Sport,Pickup Truck,4,Granite Crystal Clearcoat Metallic,Black,Four-wheel Drive
+995,Jeep,Grand Cherokee L,2024,59674,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6,Gasoline,8,Automatic,Limited,SUV,4,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive
+996,RAM,2500,2024,69315,24V DDI OHV Turbo Diesel,6,Diesel,0,Automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive
+997,Mercedes-Benz,Sprinter 2500,2024,59037,16V DDI DOHC Turbo Diesel,4,Diesel,10,9-Speed Automatic,Standard Roof,Cargo Van,3,Arctic White,Black,Rear-wheel Drive
+998,Dodge,Hornet,2024,49720,"4 gasoline direct injection, DOHC, Multiair variable valv",4,Gasoline,0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Plus Eawd,SUV,4,Acapulco Gold,Black,All-wheel Drive
+999,Jeep,Wagoneer,2024,69085,24V GDI DOHC Twin Turbo,6,Gasoline,20,8-Speed Automatic,Base,SUV,4,Diamond Black,Black,Four-wheel Drive
+1000,Nissan,Murano,2024,43495,"6 DOHC, variable valve control, regular unleaded, engine",6,Gasoline,6,Automatic,SV Intelligent AWD,SUV,4,Pearl White Tricoat,Graphite,All-wheel Drive
+1001,Chevrolet,Silverado 2500,2024,48995,"8 gasoline direct injection, variable valve control, regu",8,Gasoline,31,Automatic,WT,Pickup Truck,4,Wheatland Yellow,Jet Black,Rear-wheel Drive
